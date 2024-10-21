@@ -1,0 +1,2377 @@
+ 20884  Date : 16.12.93 00:34:14  LC : 0  LI : -3                               
+       Lat1 :  7.353N  Lon1 : 148.929W  Lat2 : 18.085N  Lon2 : 102.812W          
+       Nb mes : 005  Nb mes>-120dB : 000  Best level : -126 dB                   
+       Pass duration : 444s   Dist track :  23                                   
+       Calcul freq : 401 649920.8 Hz   Altitude :    0 m                         
+               17           00           00          239                         
+               01           00           00          255                         
+ 20884  Date : 16.12.93 03:51:31  LC : 0  LI : -7                               
+       Lat1 :  7.047N  Lon1 : 152.572W  Lat2 : 17.713N  Lon2 : 102.841W          
+       Nb mes : 002  Nb mes>-120dB : 000  Best level : -133 dB                   
+       Pass duration : 089s   Dist track :  25                                   
+       Calcul freq : 401 649920.8 Hz   Altitude :    0 m                         
+               00          240           17           66                         
+               07          165           20          240                         
+               03           57           47          162                         
+ 20884  Date : 17.12.93 00:19:36  LC : 0  LI : -1                               
+       Lat1 :  8.765N  Lon1 : 143.023W  Lat2 : 18.079N  Lon2 : 102.758W          
+       Nb mes : 004  Nb mes>-120dB : 001  Best level : -120 dB                   
+       Pass duration : 172s   Dist track :  20                                   
+       Calcul freq : 401 649923.8 Hz   Altitude :    0 m                         
+               61          240           00          211                         
+               33           00           00          223                         
+ 20884  Date : 17.12.93 01:47:10  LC : 0  LI : -8                               
+       Lat1 : 20.362N  Lon1 :  93.037W  Lat2 : 18.031N  Lon2 : 103.865W          
+       Nb mes : 003  Nb mes>-120dB : 002  Best level : -116 dB                   
+       Pass duration : 102s   Dist track :   5                                   
+       Calcul freq : 401 649923.8 Hz   Altitude :    0 m                         
+              171           00           00           00                         
+               00           06           15           04                         
+               02           00           00           58                         
+               57          240           29          186                         
+ 20884  Date : 17.12.93 03:29:52  LC : 0  LI : -8                               
+       Lat1 : 17.578N  Lon1 : 102.940W  Lat2 :  9.290N  Lon2 : 142.074W          
+       Nb mes : 003  Nb mes>-120dB : 000  Best level : -123 dB                   
+       Pass duration : 482s   Dist track :  19                                   
+       Calcul freq : 401 649923.8 Hz   Altitude :    0 m                         
+              105           00           17           10                         
+               00           00           00          124                         
+              171           00           00           00                         
+               00           06           15           04                         
+               02           00           00           58                         
+ 20884  Date : 17.12.93 22:24:43  LC : 0  LI : -5                               
+       Lat1 : 18.911N  Lon1 : 105.303W  Lat2 : 23.140N  Lon2 :  86.906W          
+       Nb mes : 002  Nb mes>-120dB : 001  Best level : -118 dB                   
+       Pass duration : 058s   Dist track :   9                                   
+       Calcul freq : 401 649923.8 Hz   Altitude :    0 m                         
+              105           00           17           10                         
+               00           00           00          124                         
+              171           00           00           00                         
+               00           06           15           04                         
+               02           00           00           58                         
+ 20884  Date : 18.12.93 00:06:53  LC : 0  LI : -8                               
+       Lat1 : 10.059N  Lon1 : 137.032W  Lat2 : 17.971N  Lon2 : 102.778W          
+       Nb mes : 006  Nb mes>-120dB : 002  Best level : -119 dB                   
+       Pass duration : 247s   Dist track :  17                                   
+       Calcul freq : 401 649948.0 Hz   Altitude :    0 m                         
+               61          230           09          212                         
+               97           04           24           06                         
+               00           00           00          125                         
+ 20884  Date : 18.12.93 01:27:45  LC : 1                                        
+       Lat1 : 18.122N  Lon1 : 102.946W  Lat2 : 22.331N  Lon2 :  83.568W          
+       Nb mes : 004  Nb mes>-120dB : 003  Best level : -115 dB                   
+       Pass duration : 275s   Dist track :   9                                   
+       Calcul freq : 401 649778.1 Hz   Altitude :    0 m                         
+               61          230           09          212                         
+               97           04           24           06                         
+               00           00           00          125                         
+ 20884  Date : 18.12.93 03:04:56  LC : 0  LI : -2                               
+       Lat1 : 18.120N  Lon1 : 102.953W  Lat2 : 11.886N  Lon2 : 131.546W          
+       Nb mes : 003  Nb mes>-120dB : 001  Best level : -120 dB                   
+       Pass duration : 298s   Dist track :  14                                   
+       Calcul freq : 401 649778.1 Hz   Altitude :    0 m                         
+              227           00           05           02                         
+               10           05           05           04                         
+               01           00           01           00                         
+               00           01           00          251                         
+               49          238           32          193                         
+ 20884  Date : 18.12.93 22:16:51  LC : 0  LI : -5                               
+       Lat1 : 18.173N  Lon1 : 102.715W  Lat2 : 22.565N  Lon2 :  82.995W          
+       Nb mes : 002  Nb mes>-120dB : 002  Best level : -114 dB                   
+       Pass duration : 416s   Dist track :  10                                   
+       Calcul freq : 401 649778.1 Hz   Altitude :    0 m                         
+               97           10           31           03                         
+               00           00           00          115                         
+              175           05           04           18                         
+               08           06           02           00                         
+               01           15          240           49                         
+ 20884  Date : 19.12.93 00:03:48  LC : 0  LI : -5                               
+       Lat1 : 17.621N  Lon1 : 102.180W  Lat2 :  9.476N  Lon2 : 132.509W          
+       Nb mes : 002  Nb mes>-120dB : 000  Best level : -125 dB                   
+       Pass duration : 049s   Dist track :  15                                   
+       Calcul freq : 401 649778.1 Hz   Altitude :    0 m                         
+              231           00           00           00                         
+               00           00           05           10                         
+               05           00           00           01                         
+               00           00           00           04                         
+               53          243          117           99                         
+ 20884  Date : 19.12.93 01:03:57  LC : 0  LI : -3                               
+       Lat1 : 18.096N  Lon1 : 102.812W  Lat2 : 24.391N  Lon2 :  73.227W          
+       Nb mes : 003  Nb mes>-120dB : 002  Best level : -117 dB                   
+       Pass duration : 419s   Dist track :  14                                   
+       Calcul freq : 401 649778.1 Hz   Altitude :    0 m                         
+               42          108           19           23                         
+               07          165           10           57                         
+               01           13           44           23                         
+ 20884  Date : 19.12.93 02:43:26  LC : 0  LI : -3                               
+       Lat1 : 18.070N  Lon1 : 102.942W  Lat2 : 14.070N  Lon2 : 121.259W          
+       Nb mes : 003  Nb mes>-120dB : 003  Best level : -115 dB                   
+       Pass duration : 111s   Dist track :   9                                   
+       Calcul freq : 401 649778.1 Hz   Altitude :    0 m                         
+              163           05           04           18                         
+               08           06           02           00                         
+               01           00           00           49                         
+               49          238           02          223                         
+ 20884  Date : 19.12.93 22:09:18  LC : 0  LI : -4                               
+       Lat1 : 18.120N  Lon1 : 102.969W  Lat2 : 24.211N  Lon2 :  77.597W          
+       Nb mes : 002  Nb mes>-120dB : 001  Best level : -119 dB                   
+       Pass duration : 122s   Dist track :  13                                   
+       Calcul freq : 401 649769.8 Hz   Altitude :    0 m                         
+             167           00           01           00                         
+              04           06           04           02                         
+              05          133          131          195                         
+             225          225          193          224                         
+ 20884  Date : 19.12.93 23:48:18  LC : 0  LI : -1                               
+       Lat1 : 18.107N  Lon1 : 102.850W  Lat2 : 12.925N  Lon2 : 124.955W          
+       Nb mes : 004  Nb mes>-120dB : 003  Best level : -117 dB                   
+       Pass duration : 151s   Dist track :  11                                   
+       Calcul freq : 401 649769.8 Hz   Altitude :    0 m                         
+              99           07           11           05                         
+              07           08           07          112                         
+              49          240           00          223                         
+ 20884  Date : 20.12.93 02:25:37  LC : 0  LI : -4                               
+       Lat1 : 18.099N  Lon1 : 102.804W  Lat2 : 16.289N  Lon2 : 111.077W          
+       Nb mes : 002  Nb mes>-120dB : 001  Best level : -117 dB                   
+       Pass duration : 056s   Dist track :   4                                   
+       Calcul freq : 401 649769.8 Hz   Altitude :    0 m                         
+             171           00           03           06                         
+              03           10           01           02                         
+              01           01           00           58                         
+              57          255           14          186                         
+ 20884  Date : 20.12.93 23:34:37  LC : 0  LI : -5                               
+       Lat1 : 18.124N  Lon1 : 102.873W  Lat2 : 14.391N  Lon2 : 119.188W          
+       Nb mes : 002  Nb mes>-120dB : 002  Best level : -117 dB                   
+       Pass duration : 050s   Dist track :   8                                   
+       Calcul freq : 401 649769.8 Hz   Altitude :    0 m                         
+              53          243           27          189                         
+             105           00           13           06                         
+              00           00           00          132                         
+ 20884  Date : 21.12.93 21:39:12  LC : 0  LI : -5                               
+       Lat1 : 18.209N  Lon1 : 102.842W  Lat2 : 26.570N  Lon2 :  64.972W          
+       Nb mes : 002  Nb mes>-120dB : 000  Best level : -122 dB                   
+       Pass duration : 242s   Dist track :  18                                   
+       Calcul freq : 401 649769.8 Hz   Altitude :    0 m                         
+              57          232           06          217                         
+             109           01           26           04                         
+              00           00           00          116                         
+ 20884  Date : 21.12.93 23:17:45  LC : 0  LI : -3                               
+       Lat1 : 17.967N  Lon1 : 103.212W  Lat2 : 15.774N  Lon2 : 112.835W          
+       Nb mes : 003  Nb mes>-120dB : 002  Best level : -115 dB                   
+       Pass duration : 171s   Dist track :   5                                   
+       Calcul freq : 401 649769.8 Hz   Altitude :    0 m                         
+              41           05           26          184                         
+             171           02           03           00                         
+              07           09           05           04                         
+              01           00           00           54                         
+ 20884  Date : 22.12.93 01:42:07  LC : 0  LI : -3                               
+       Lat1 : 18.127N  Lon1 : 102.938W  Lat2 : 20.874N  Lon2 :  90.236W          
+       Nb mes : 003  Nb mes>-120dB : 002  Best level : -116 dB                   
+       Pass duration : 109s   Dist track :   6                                   
+       Calcul freq : 401 649769.8 Hz   Altitude :    0 m                         
+             109           01           26           04                         
+              00           00           00          116                         
+             175           01           01           00                         
+              08           09           03           08                         
+              00           01           00           50                         
+ 20884  Date : 22.12.93 03:19:32  LC : 0  LI : -5                               
+       Lat1 : 18.144N  Lon1 : 102.864W  Lat2 : 10.433N  Lon2 : 138.351W          
+       Nb mes : 002  Nb mes>-120dB : 000  Best level : -121 dB                   
+       Pass duration : 065s   Dist track :  17                                   
+       Calcul freq : 401 649769.8 Hz   Altitude :    0 m                         
+             175           01          225          195                         
+             142           28           49          227                         
+             142           57          115          198                         
+             112           06          252           51                         
+ 20884  Date : 22.12.93 23:05:53  LC : 1                                        
+       Lat1 : 18.133N  Lon1 : 102.921W  Lat2 : 17.152N  Lon2 : 107.223W          
+       Nb mes : 008  Nb mes>-120dB : 003  Best level : -115 dB                   
+       Pass duration : 415s   Dist track :   2                                   
+       Calcul freq : 401 649776.5 Hz   Altitude :    0 m                         
+              26           52           21          140                         
+              07          169           10           43                         
+              23           15           46          216                         
+ 20884  Date : 23.12.93 01:23:23  LC : 0  LI : -4                               
+       Lat1 : 18.063N  Lon1 : 103.028W  Lat2 : 23.205N  Lon2 :  80.332W          
+       Nb mes : 002  Nb mes>-120dB : 000  Best level : -125 dB                   
+       Pass duration : 060s   Dist track :  11                                   
+       Calcul freq : 401 649776.5 Hz   Altitude :    0 m                         
+              53          238           02          219                         
+              41           00           25          190                         
+ 20884  Date : 23.12.93 02:54:35  LC : 0  LI : -2                               
+       Lat1 : 17.939N  Lon1 : 103.127W  Lat2 : 12.384N  Lon2 : 127.389W          
+       Nb mes : 003  Nb mes>-120dB : 001  Best level : -120 dB                   
+       Pass duration : 099s   Dist track :  12                                   
+       Calcul freq : 401 649776.5 Hz   Altitude :    0 m                         
+              41           00           25          190                         
+             171           00           00           00                         
+              03           03           08           07                         
+              04           00           00           60                         
+ 20884  Date : 23.12.93 22:53:02  LC : 0  LI : -7                               
+       Lat1 : 18.105N  Lon1 : 102.735W  Lat2 : 18.403N  Lon2 : 101.427W          
+       Nb mes : 002  Nb mes>-120dB : 000  Best level : -122 dB                   
+       Pass duration : 334s   Dist track :   1                                   
+       Calcul freq : 401 649776.5 Hz   Altitude :    0 m                         
+             171           00           00           00                         
+              03           03           08           07                         
+              04           00           00           60                         
+              57          239           00          216                         
+ 20884  Date : 24.12.93 00:56:45  LC : 0  LI : -3                               
+       Lat1 : 18.113N  Lon1 : 102.874W  Lat2 : 25.202N  Lon2 :  69.523W          
+       Nb mes : 003  Nb mes>-120dB : 003  Best level : -117 dB                   
+       Pass duration : 098s   Dist track :  16                                   
+       Calcul freq : 401 649776.5 Hz   Altitude :    0 m                         
+             101           06           29           04                         
+              00           00           00          116                         
+             167           03           04           01                         
+              13           07           08           03                         
+              00           00           00           50                         
+ 20884  Date : 24.12.93 02:35:42  LC : 0  LI : -5                               
+       Lat1 : 18.081N  Lon1 : 102.909W  Lat2 : 14.870N  Lon2 : 117.654W          
+       Nb mes : 002  Nb mes>-120dB : 002  Best level : -113 dB                   
+       Pass duration : 049s   Dist track :   7                                   
+       Calcul freq : 401 649776.5 Hz   Altitude :    0 m                         
+              49          240           00          223                         
+             101           06           29           04                         
+              00           00           00          116                         
+ 20884  Date : 24.12.93 22:45:15  LC : 1                                        
+       Lat1 : 18.114N  Lon1 : 102.885W  Lat2 : 19.817N  Lon2 :  95.434W          
+       Nb mes : 004  Nb mes>-120dB : 003  Best level : -118 dB                   
+       Pass duration : 324s   Dist track :   4                                   
+       Calcul freq : 401 649777.0 Hz   Altitude :    0 m                         
+             101           01           26           02                         
+              00           00           00          126                         
+             167           00           01           00                         
+              01           08           10           07                         
+              01           00           01           60                         
+ 20884  Date : 25.12.93 00:24:10  LC : 0  LI : -2                               
+       Lat1 : 18.140N  Lon1 : 102.886W  Lat2 :  8.947N  Lon2 : 143.600W          
+       Nb mes : 003  Nb mes>-120dB : 000  Best level : -125 dB                   
+       Pass duration : 139s   Dist track :  20                                   
+       Calcul freq : 401 649777.0 Hz   Altitude :    0 m                         
+              49          230           10          223                         
+             101           01           26           02                         
+              00           00           00          126                         
+ 20884  Date : 25.12.93 00:39:16  LC : 0  LI : -4                               
+       Lat1 : 18.111N  Lon1 : 102.920W  Lat2 : 27.299N  Lon2 :  59.535W          
+       Nb mes : 002  Nb mes>-120dB : 000  Best level : -121 dB                   
+       Pass duration : 098s   Dist track :  21                                   
+       Calcul freq : 401 649777.0 Hz   Altitude :    0 m                         
+              32           65           22          241                         
+              07          173           10           43                         
+              00           45           44           86                         
+ 20884  Date : 25.12.93 02:18:05  LC : 2                                        
+       Lat1 : 18.118N  Lon1 : 102.890W  Lat2 : 17.107N  Lon2 : 107.401W          
+       Nb mes : 005  Nb mes>-120dB : 003  Best level : -118 dB                   
+       Pass duration : 543s   Dist track :   2                                   
+       Calcul freq : 401 649779.6 Hz   Altitude :    0 m                         
+              45           07           35          169                         
+             175           00           02           12                         
+              11           08           06           02                         
+              00           01           00           39                         
+ 20884  Date : 25.12.93 03:57:18  LC : 0  LI : -7                               
+       Lat1 : 18.114N  Lon1 : 102.841W  Lat2 :  6.836N  Lon2 : 155.749W          
+       Nb mes : 003  Nb mes>-120dB : 000  Best level : -129 dB                   
+       Pass duration : 158s   Dist track :  26                                   
+       Calcul freq : 401 649777.0 Hz   Altitude :    0 m                         
+             171           03           01           07                         
+              15           10           01           01                         
+              00           00           00           47                         
+              57          239           00          216                         
+ 20884  Date : 25.12.93 22:32:43  LC : 0  LI : -5                               
+       Lat1 : 18.133N  Lon1 : 102.885W  Lat2 : 21.109N  Lon2 :  89.530W          
+       Nb mes : 002  Nb mes>-120dB : 002  Best level : -119 dB                   
+       Pass duration : 344s   Dist track :   7                                   
+       Calcul freq : 401 649779.6 Hz   Altitude :    0 m                         
+             167           02           06           02                         
+              01           09           04           08                         
+              00           00           00           57                         
+              53          239           01          219                         
+ 20884  Date : 26.12.93 00:14:33  LC : 0  LI : -2                               
+       Lat1 : 18.111N  Lon1 : 102.855W  Lat2 : 10.219N  Lon2 : 138.140W          
+       Nb mes : 003  Nb mes>-120dB : 001  Best level : -118 dB                   
+       Pass duration : 436s   Dist track :  17                                   
+       Calcul freq : 401 649779.6 Hz   Altitude :    0 m                         
+              57          239           00          216                         
+              45           56           12          143                         
+ 20884  Date : 26.12.93 01:54:23  LC : 1                                        
+       Lat1 : 18.098N  Lon1 : 102.827W  Lat2 : 19.323N  Lon2 :  97.097W          
+       Nb mes : 006  Nb mes>-120dB : 002  Best level : -117 dB                   
+       Pass duration : 623s   Dist track :   3                                   
+       Calcul freq : 401 649779.6 Hz   Altitude :    0 m                         
+              33           46           04          173                         
+              99           16           26           07                         
+              01           00           00          107                         
+ 20884  Date : 26.12.93 03:34:54  LC : 2                                        
+       Lat1 : 18.085N  Lon1 : 102.800W  Lat2 :  8.639N  Lon2 : 145.253W          
+       Nb mes : 005  Nb mes>-120dB : 000  Best level : -124 dB                   
+       Pass duration : 451s   Dist track :  21                                   
+       Calcul freq : 401 649782.5 Hz   Altitude :    0 m                         
+              99           16           26           07                         
+              01           00           00          107                         
+              49          240           00          223                         
+ 20884  Date : 26.12.93 22:18:28  LC : 1                                        
+       Lat1 : 18.148N  Lon1 : 102.969W  Lat2 : 22.597N  Lon2 :  83.644W          
+       Nb mes : 004  Nb mes>-120dB : 001  Best level : -120 dB                   
+       Pass duration : 617s   Dist track :  10                                   
+       Calcul freq : 401 649783.2 Hz   Altitude :    0 m                         
+              99           13           19           06                         
+              01           00           00          118                         
+              49          240           00          223                         
+ 20884  Date : 27.12.93 00:02:08  LC : 1                                        
+       Lat1 : 18.221N  Lon1 : 102.994W  Lat2 : 11.510N  Lon2 : 131.686W          
+       Nb mes : 004  Nb mes>-120dB : 002  Best level : -117 dB                   
+       Pass duration : 259s   Dist track :  14                                   
+       Calcul freq : 401 649774.7 Hz   Altitude :    0 m                         
+              53          248           22          189                         
+             105           01           22           07                         
+              00           00           00          121                         
+ 20884  Date : 27.12.93 01:34:30  LC : 1                                        
+       Lat1 : 18.171N  Lon1 : 102.955W  Lat2 : 21.683N  Lon2 :  86.800W          
+       Nb mes : 004  Nb mes>-120dB : 001  Best level : -120 dB                   
+       Pass duration : 634s   Dist track :   8                                   
+       Calcul freq : 401 649782.9 Hz   Altitude :    0 m                         
+             105           01           22           07                         
+              00           00           00          121                         
+             171           00           00           01                         
+              04           08           05           11                         
+              01           00           00           55                         
+ 20884  Date : 27.12.93 03:16:44  LC : 0  LI : -1                               
+       Lat1 : 18.216N  Lon1 : 102.879W  Lat2 : 11.047N  Lon2 : 134.612W          
+       Nb mes : 004  Nb mes>-120dB : 001  Best level : -120 dB                   
+       Pass duration : 148s   Dist track :  16                                   
+       Calcul freq : 401 649760.3 Hz   Altitude :    0 m                         
+             167           00           03           06                         
+              07           04           07           01                         
+              00           00           00           61                         
+              53          248           22          189                         
+ 20884  Date : 27.12.93 22:04:52  LC : 0  LI : -5                               
+       Lat1 : 18.136N  Lon1 : 102.823W  Lat2 : 23.777N  Lon2 :  77.647W          
+       Nb mes : 002  Nb mes>-120dB : 001  Best level : -120 dB                   
+       Pass duration : 055s   Dist track :  12                                   
+       Calcul freq : 401 649760.3 Hz   Altitude :    0 m                         
+              97           00           28           03                         
+              00           00           00          128                         
+             163           00           00           00                         
+              03           10           09           07                         
+              02           00           00           62                         
+ 20884  Date : 27.12.93 23:45:05  LC : 0  LI : -8                               
+       Lat1 : 12.872N  Lon1 : 125.641W  Lat2 : 18.045N  Lon2 : 103.096W          
+       Nb mes : 005  Nb mes>-120dB : 002  Best level : -119 dB                   
+       Pass duration : 277s   Dist track :  11                                   
+       Calcul freq : 401 649825.3 Hz   Altitude :    0 m                         
+             101           19           27           07                         
+              00           00           00          102                         
+             167           03           18           07                         
+              12           05           06           01                         
+              01           00           00           36                         
+ 20884  Date : 28.12.93 01:09:47  LC : 0  LI : -5                               
+       Lat1 : 18.160N  Lon1 : 102.889W  Lat2 : 23.853N  Lon2 :  76.259W          
+       Nb mes : 002  Nb mes>-120dB : 001  Best level : -120 dB                   
+       Pass duration : 049s   Dist track :  13                                   
+       Calcul freq : 401 649760.3 Hz   Altitude :    0 m                         
+              49          238           02          223                         
+             101           19           27           07                         
+              00           00           00          102                         
+ 20884  Date : 28.12.93 02:49:38  LC : 0  LI : -1                               
+       Lat1 : 13.618N  Lon1 : 123.896W  Lat2 : 18.092N  Lon2 : 103.425W          
+       Nb mes : 004  Nb mes>-120dB : 002  Best level : -117 dB                   
+       Pass duration : 149s   Dist track :  10                                   
+       Calcul freq : 401 649723.6 Hz   Altitude :    0 m                         
+              57          231           08          216                         
+             109           00           30           02                         
+              00           00           00          115                         
+ 20884  Date : 28.12.93 23:29:41  LC : 0  LI : -4                               
+       Lat1 : 18.235N  Lon1 : 102.525W  Lat2 : 13.812N  Lon2 : 119.803W          
+       Nb mes : 002  Nb mes>-120dB : 000  Best level : -126 dB                   
+       Pass duration : 048s   Dist track :   9                                   
+       Calcul freq : 401 649840.4 Hz   Altitude :    0 m                         
+              53          228           42          189                         
+             105           02           18           05                         
+              00           00          136          126                         
+ 20884  Date : 29.12.93 02:30:11  LC : 2                                        
+       Lat1 : 15.472N  Lon1 : 114.200W  Lat2 : 18.138N  Lon2 : 102.887W          
+       Nb mes : 005  Nb mes>-120dB : 002  Best level : -118 dB                   
+       Pass duration : 676s   Dist track :   6                                   
+       Calcul freq : 401 649822.2 Hz   Altitude :    0 m                         
+             239           01           02           02                         
+              00           07           10           04                         
+              03           00           00           00                         
+              01           00           00          243                         
+              61          240           29          182                         
+ 20884  Date : 29.12.93 21:42:11  LC : 0  LI :-10                               
+       Lat1 : 18.064N  Lon1 : 102.948W  Lat2 : 26.337N  Lon2 :  65.572W          
+       Nb mes : 003  Nb mes>-120dB : 001  Best level : -118 dB                   
+       Pass duration : 098s   Dist track :  18                                   
+       Calcul freq : 401 649822.2 Hz   Altitude :    0 m                         
+              49          236           04          223                         
+             101           00           19           07                         
+              00           00           00          129                         
+ 20884  Date : 29.12.93 23:26:57  LC : 0  LI : -3                               
+       Lat1 : 15.499N  Lon1 : 113.999W  Lat2 : 18.115N  Lon2 : 103.109W          
+       Nb mes : 003  Nb mes>-120dB : 003  Best level : -116 dB                   
+       Pass duration : 101s   Dist track :   6                                   
+       Calcul freq : 401 649822.2 Hz   Altitude :    0 m                         
+             101           00           19           07                         
+              00           00           00          129                         
+             167           00           00           01                         
+              02           02           12           04                         
+              05           00           00           63                         
+ 20884  Date : 30.12.93 03:48:52  LC : 0  LI : -7                               
+       Lat1 : 18.049N  Lon1 : 102.960W  Lat2 :  7.593N  Lon2 : 151.793W          
+       Nb mes : 003  Nb mes>-120dB : 000  Best level : -125 dB                   
+       Pass duration : 112s   Dist track :  24                                   
+       Calcul freq : 401 649822.2 Hz   Altitude :    0 m                         
+              53          248           22          189                         
+             105           00           23           04                         
+              00           00           00          124                         
+ 20884  Date : 30.12.93 23:12:08  LC : 0  LI :  0                               
+       Lat1 : 17.014N  Lon1 : 107.897W  Lat2 : 18.136N  Lon2 : 103.006W          
+       Nb mes : 004  Nb mes>-120dB : 001  Best level : -118 dB                   
+       Pass duration : 147s   Dist track :   2                                   
+       Calcul freq : 401 649814.1 Hz   Altitude :    0 m                         
+             101           01           12           16                         
+              00           00           00          126                         
+             167           01           03           01                         
+              00           03           10           07                         
+              03           01           00           60                         
+ 20884  Date : 31.12.93 00:53:26  LC : 0  LI : -7                               
+       Lat1 :  6.137N  Lon1 : 156.505W  Lat2 : 18.100N  Lon2 : 102.953W          
+       Nb mes : 002  Nb mes>-120dB : 000  Best level : -127 dB                   
+       Pass duration : 048s   Dist track :  27                                   
+       Calcul freq : 401 649814.1 Hz   Altitude :    0 m                         
+              61          239           01          211                         
+              97           03           29           01                         
+              00           00           00          126                         
+ 20884  Date : 31.12.93 03:27:04  LC : 0  LI :-10                               
+       Lat1 :  9.845N  Lon1 : 141.380W  Lat2 : 18.293N  Lon2 : 103.088W          
+       Nb mes : 004  Nb mes>-120dB : 000  Best level : -121 dB                   
+       Pass duration : 147s   Dist track :  19                                   
+       Calcul freq : 401 649802.9 Hz   Altitude :    0 m                         
+              49          240           00          223                         
+             101           01           12           16                         
+              00           00           00          126                         
+ 20884  Date : 31.12.93 23:00:21  LC : 0  LI : -7                               
+       Lat1 : 18.218N  Lon1 : 102.581W  Lat2 : 18.260N  Lon2 : 102.399W          
+       Nb mes : 005  Nb mes>-120dB : 002  Best level : -115 dB                   
+       Pass duration : 202s   Dist track :   0                                   
+       Calcul freq : 401 649814.1 Hz   Altitude :    0 m                         
+              57          229           10          216                         
+             109           03           24           03                         
+              00           00           00          117                         
+ 20885  Date : 16.12.93 00:33:27  LC : 0  LI : -3                               
+       Lat1 :  7.375N  Lon1 : 148.921W  Lat2 : 18.066N  Lon2 : 102.780W          
+       Nb mes : 004  Nb mes>-120dB : 000  Best level : -124 dB                   
+       Pass duration : 269s   Dist track :  23                                   
+       Calcul freq : 401 649767.3 Hz   Altitude :    0 m                         
+              25          240           00          247                         
+              13           00           00          243                         
+ 20885  Date : 16.12.93 02:09:27  LC : 0  LI : -7                               
+       Lat1 : 18.104N  Lon1 : 102.804W  Lat2 : 17.761N  Lon2 : 104.373W          
+       Nb mes : 007  Nb mes>-120dB : 001  Best level : -119 dB                   
+       Pass duration : 629s   Dist track :   1                                   
+       Calcul freq : 401 649653.6 Hz   Altitude :    0 m                         
+              29           00           00          227                         
+              01           00           00          255                         
+ 20885  Date : 16.12.93 03:49:57  LC : 0  LI : -7                               
+       Lat1 :  7.033N  Lon1 : 152.557W  Lat2 : 18.091N  Lon2 : 102.814W          
+       Nb mes : 004  Nb mes>-120dB : 000  Best level : -131 dB                   
+       Pass duration : 269s   Dist track :  25                                   
+       Calcul freq : 401 649823.0 Hz   Altitude :    0 m                         
+              00          240           10           63                         
+              07          170           20          240                         
+              03           54           50          167                         
+ 20885  Date : 16.12.93 22:45:24  LC : 1                                        
+       Lat1 : 18.101N  Lon1 : 102.813W  Lat2 : 20.001N  Lon2 :  94.608W          
+       Nb mes : 005  Nb mes>-120dB : 000  Best level : -122 dB                   
+       Pass duration : 360s   Dist track :   4                                   
+       Calcul freq : 401 649656.5 Hz   Altitude :    0 m                         
+              17          240           00          255                         
+              05           00           00          251                         
+ 20885  Date : 17.12.93 00:22:54  LC : 1                                        
+       Lat1 : 18.124N  Lon1 : 102.807W  Lat2 :  8.756N  Lon2 : 142.993W          
+       Nb mes : 004  Nb mes>-120dB : 002  Best level : -116 dB                   
+       Pass duration : 360s   Dist track :  20                                   
+       Calcul freq : 401 649629.9 Hz   Altitude :    0 m                         
+              11           00           00          245                         
+              25          240           00          247                         
+ 20885  Date : 17.12.93 01:49:08  LC : 2                                        
+       Lat1 : 18.098N  Lon1 : 102.826W  Lat2 : 20.024N  Lon2 :  94.046W          
+       Nb mes : 009  Nb mes>-120dB : 001  Best level : -119 dB                   
+       Pass duration : 809s   Dist track :   4                                   
+       Calcul freq : 401 649654.5 Hz   Altitude :    0 m                         
+              07           00           00          249                         
+              21          240           00          251                         
+ 20885  Date : 17.12.93 03:27:23  LC : 1                                        
+       Lat1 : 18.095N  Lon1 : 102.816W  Lat2 :  9.393N  Lon2 : 142.179W          
+       Nb mes : 005  Nb mes>-120dB : 000  Best level : -124 dB                   
+       Pass duration : 359s   Dist track :  19                                   
+       Calcul freq : 401 649671.7 Hz   Altitude :    0 m                         
+              07           00           00          249                         
+              21          240           00          251                         
+ 20885  Date : 17.12.93 22:24:02  LC : 0  LI : -3                               
+       Lat1 : 18.074N  Lon1 : 103.196W  Lat2 : 21.570N  Lon2 :  88.360W          
+       Nb mes : 003  Nb mes>-120dB : 000  Best level : -121 dB                   
+       Pass duration : 108s   Dist track :   7                                   
+       Calcul freq : 401 649671.7 Hz   Altitude :    0 m                         
+             117          246           58           05                         
+              00           00           00           86                         
+              41           00           00          215                         
+ 20885  Date : 18.12.93 03:11:34  LC : 0  LI : -3                               
+       Lat1 : 18.001N  Lon1 : 102.892W  Lat2 : 11.232N  Lon2 : 132.284W          
+       Nb mes : 003  Nb mes>-120dB : 000  Best level : -122 dB                   
+       Pass duration : 119s   Dist track :  14                                   
+       Calcul freq : 401 649671.7 Hz   Altitude :    0 m                         
+             235           00           00           01                         
+              00           00           00           00                         
+              00           02           06           01                         
+              00           00           00           11                         
+             121          227           72           09                         
+              00           00           00           83                         
+ 20885  Date : 18.12.93 22:13:42  LC : 0  LI : -5                               
+       Lat1 : 17.952N  Lon1 : 102.889W  Lat2 : 22.509N  Lon2 :  82.675W          
+       Nb mes : 002  Nb mes>-120dB : 000  Best level : -121 dB                   
+       Pass duration : 210s   Dist track :  10                                   
+       Calcul freq : 401 649671.7 Hz   Altitude :    0 m                         
+             227           00           02           01                         
+              00           01           01           02                         
+              02           05           01           04                         
+              01           00           00           09                         
+              49          246           24          193                         
+ 20885  Date : 19.12.93 00:03:24  LC : 0  LI : -5                               
+       Lat1 : 18.118N  Lon1 : 102.832W  Lat2 : 10.511N  Lon2 : 132.032W          
+       Nb mes : 002  Nb mes>-120dB : 000  Best level : -121 dB                   
+       Pass duration : 085s   Dist track :  14                                   
+       Calcul freq : 401 649671.7 Hz   Altitude :    0 m                         
+             167           02           01           08                         
+              04           06           04           03                         
+              04           01           01           55                         
+              53          232           08          219                         
+ 20885  Date : 20.12.93 02:19:01  LC : 0  LI : -3                               
+       Lat1 : 18.567N  Lon1 : 101.785W  Lat2 : 16.173N  Lon2 : 112.048W          
+       Nb mes : 003  Nb mes>-120dB : 000  Best level : -121 dB                   
+       Pass duration : 099s   Dist track :   5                                   
+       Calcul freq : 401 649671.7 Hz   Altitude :    0 m                         
+              61          230           40          181                         
+              97           00           12           04                         
+              00           00           00          143                         
+ 20885  Date : 21.12.93 23:16:33  LC : 0  LI : -5                               
+       Lat1 : 18.169N  Lon1 : 102.076W  Lat2 : 15.403N  Lon2 : 113.853W          
+       Nb mes : 002  Nb mes>-120dB : 001  Best level : -119 dB                   
+       Pass duration : 054s   Dist track :   6                                   
+       Calcul freq : 401 649671.7 Hz   Altitude :    0 m                         
+              53          237           72          150                         
+             105           00           08           08                         
+              00           00           00          135                         
+ 20885  Date : 22.12.93 01:39:37  LC : 0  LI : -5                               
+       Lat1 : 17.885N  Lon1 : 102.473W  Lat2 : 20.456N  Lon2 :  90.558W          
+       Nb mes : 002  Nb mes>-120dB : 002  Best level : -117 dB                   
+       Pass duration : 112s   Dist track :   6                                   
+       Calcul freq : 401 649671.7 Hz   Altitude :    0 m                         
+             227           01           00           00                         
+              00           02           01           00                         
+              01           01           05           06                         
+              02           00           00           10                         
+              49          255           15          193                         
+ 20885  Date : 22.12.93 03:18:46  LC : 0  LI : -5                               
+       Lat1 : 17.884N  Lon1 : 102.169W  Lat2 :  9.911N  Lon2 : 138.783W          
+       Nb mes : 002  Nb mes>-120dB : 001  Best level : -120 dB                   
+       Pass duration : 129s   Dist track :  18                                   
+       Calcul freq : 401 649671.7 Hz   Altitude :    0 m                         
+              57          255           15          185                         
+             109           01           04           12                         
+              00           00           00          130                         
+ 20885  Date : 22.12.93 23:16:00  LC : 0  LI : -5                               
+       Lat1 : 18.667N  Lon1 : 103.217W  Lat2 : 16.797N  Lon2 : 108.101W          
+       Nb mes : 002  Nb mes>-120dB : 000  Best level : -129 dB                   
+       Pass duration : 057s   Dist track :   2                                   
+       Calcul freq : 401 649671.7 Hz   Altitude :    0 m                         
+              97           01           13           05                         
+              00           00           00          140                         
+             227           00           00           00                         
+              00           04           01           01                         
+              02           03           04           02                         
+              02           00           00           10                         
+ 20885  Date : 23.12.93 02:57:19  LC : 0  LI : -8                               
+       Lat1 : 17.890N  Lon1 : 102.169W  Lat2 : 12.174N  Lon2 : 128.491W          
+       Nb mes : 003  Nb mes>-120dB : 001  Best level : -118 dB                   
+       Pass duration : 413s   Dist track :  13                                   
+       Calcul freq : 401 649671.7 Hz   Altitude :    0 m                         
+              61          246           23          182                         
+              97           01           13           05                         
+              00           00           00          140                         
+ 20885  Date : 23.12.93 21:17:49  LC : 0  LI : -5                               
+       Lat1 : 17.891N  Lon1 : 102.286W  Lat2 : 28.522N  Lon2 :  53.709W          
+       Nb mes : 002  Nb mes>-120dB : 000  Best level : -124 dB                   
+       Pass duration : 062s   Dist track :  23                                   
+       Calcul freq : 401 649671.7 Hz   Altitude :    0 m                         
+              53          250           20          189                         
+             105           00           14           05                         
+              00           00           00          132                         
+ 20885  Date : 24.12.93 22:46:01  LC : 1                                        
+       Lat1 : 18.024N  Lon1 : 102.577W  Lat2 : 19.629N  Lon2 :  95.662W          
+       Nb mes : 005  Nb mes>-120dB : 001  Best level : -120 dB                   
+       Pass duration : 379s   Dist track :   3                                   
+       Calcul freq : 401 649647.8 Hz   Altitude :    0 m                         
+              53          232           08          219                         
+             105           01           10           09                         
+              00           00           00          131                         
+ 20885  Date : 25.12.93 00:37:56  LC : 1                                        
+       Lat1 : 18.013N  Lon1 : 102.601W  Lat2 : 27.360N  Lon2 :  59.535W          
+       Nb mes : 006  Nb mes>-120dB : 000  Best level : -122 dB                   
+       Pass duration : 304s   Dist track :  21                                   
+       Calcul freq : 401 649654.3 Hz   Altitude :    0 m                         
+             109           00           09           12                         
+              00           00           00          126                         
+             239           00           00           00                         
+              01           04           01           01                         
+              04           05           00           04                         
+              01           00           00          252                         
+ 20885  Date : 25.12.93 02:14:16  LC : 0  LI : -4                               
+       Lat1 : 18.052N  Lon1 : 102.566W  Lat2 : 16.965N  Lon2 : 107.625W          
+       Nb mes : 002  Nb mes>-120dB : 002  Best level : -114 dB                   
+       Pass duration : 050s   Dist track :   2                                   
+       Calcul freq : 401 649652.2 Hz   Altitude :    0 m                         
+             239           00           00           00                         
+              01           04           01           01                         
+              04           05           00           04                         
+              01           00           00          252                         
+              61          246           23          182                         
+ 20885  Date : 25.12.93 22:31:44  LC : 1                                        
+       Lat1 : 18.086N  Lon1 : 102.895W  Lat2 : 21.083N  Lon2 :  89.617W          
+       Nb mes : 005  Nb mes>-120dB : 002  Best level : -118 dB                   
+       Pass duration : 708s   Dist track :   7                                   
+       Calcul freq : 401 649654.2 Hz   Altitude :    0 m                         
+              24           94           16          137                         
+              07          164           20           39                         
+              22           41           01          203                         
+ 20885  Date : 26.12.93 00:09:48  LC : 0  LI : -1                               
+       Lat1 : 18.055N  Lon1 : 102.818W  Lat2 :  9.983N  Lon2 : 137.781W          
+       Nb mes : 004  Nb mes>-120dB : 000  Best level : -122 dB                   
+       Pass duration : 167s   Dist track :  17                                   
+       Calcul freq : 401 649690.6 Hz   Altitude :    0 m                         
+              57          236           03          216                         
+             109           01           14           03                         
+              00           00           00          129                         
+ 20885  Date : 26.12.93 01:49:12  LC : 0  LI :-10                               
+       Lat1 : 18.511N  Lon1 : 103.974W  Lat2 : 20.382N  Lon2 :  96.144W          
+       Nb mes : 002  Nb mes>-120dB : 000  Best level : -122 dB                   
+       Pass duration : 050s   Dist track :   4                                   
+       Calcul freq : 401 649690.6 Hz   Altitude :    0 m                         
+             101           03           12           02                         
+              01           00           00          137                         
+             231           03           01           00                         
+              00           01           03           00                         
+              03           02           02           02                         
+              01           00           00           07                         
+ 20885  Date : 26.12.93 22:19:16  LC : 3                                        
+       Lat1 : 18.119N  Lon1 : 102.885W  Lat2 : 22.487N  Lon2 :  83.608W          
+       Nb mes : 006  Nb mes>-120dB : 004  Best level : -117 dB                   
+       Pass duration : 533s   Dist track :  10                                   
+       Calcul freq : 401 649656.1 Hz   Altitude :    0 m                         
+              45           15           23          173                         
+             239           02           09           12                         
+              04           01           02           01                         
+              03           01           01           02                         
+              00           00           00          235                         
+ 20885  Date : 26.12.93 23:59:54  LC : 2                                        
+       Lat1 : 18.096N  Lon1 : 102.872W  Lat2 : 11.412N  Lon2 : 131.873W          
+       Nb mes : 005  Nb mes>-120dB : 001  Best level : -120 dB                   
+       Pass duration : 624s   Dist track :  14                                   
+       Calcul freq : 401 649657.3 Hz   Altitude :    0 m                         
+              45           15           23          173                         
+             239           02           09           12                         
+              04           01           02           01                         
+              03           01           01           02                         
+              00           00           00          235                         
+ 20885  Date : 27.12.93 01:36:02  LC : 0  LI : -4                               
+       Lat1 : 18.096N  Lon1 : 102.838W  Lat2 : 21.617N  Lon2 :  86.866W          
+       Nb mes : 002  Nb mes>-120dB : 002  Best level : -119 dB                   
+       Pass duration : 076s   Dist track :   8                                   
+       Calcul freq : 401 649657.3 Hz   Altitude :    0 m                         
+             239           02           09           12                         
+              04           01           02           01                         
+              03           01           01           02                         
+              00           00           00          235                         
+              61          239           00          212                         
+ 20885  Date : 27.12.93 03:13:36  LC : 2                                        
+       Lat1 : 18.085N  Lon1 : 102.811W  Lat2 : 10.898N  Lon2 : 134.915W          
+       Nb mes : 006  Nb mes>-120dB : 000  Best level : -121 dB                   
+       Pass duration : 690s   Dist track :  16                                   
+       Calcul freq : 401 649657.2 Hz   Altitude :    0 m                         
+             101           16           13           01                         
+              00           00           00          125                         
+             167           06           07           05                         
+              01           01           04           02                         
+              00           03           01           59                         
+ 20885  Date : 28.12.93 21:55:00  LC : 0  LI : -2                               
+       Lat1 : 17.813N  Lon1 : 102.446W  Lat2 : 24.590N  Lon2 :  71.937W          
+       Nb mes : 003  Nb mes>-120dB : 002  Best level : -117 dB                   
+       Pass duration : 441s   Dist track :  15                                   
+       Calcul freq : 401 649647.8 Hz   Altitude :    0 m                         
+              97           00           12           05                         
+              00           00           00          142                         
+             227           00           00           00                         
+              00           00           00           00                         
+              03           06           03           05                         
+              00           00           00           12                         
+ 20885  Date : 28.12.93 23:32:23  LC : 1                                        
+       Lat1 : 17.797N  Lon1 : 102.424W  Lat2 : 13.727N  Lon2 : 120.192W          
+       Nb mes : 007  Nb mes>-120dB : 001  Best level : -118 dB                   
+       Pass duration : 331s   Dist track :   9                                   
+       Calcul freq : 401 649651.7 Hz   Altitude :    0 m                         
+             121          247           51           10                         
+              00           00           00           83                         
+             109           00           08           09                         
+              00           00           00          130                         
+ 20885  Date : 29.12.93 00:49:06  LC : 1                                        
+       Lat1 : 17.755N  Lon1 : 102.435W  Lat2 : 25.507N  Lon2 :  66.175W          
+       Nb mes : 004  Nb mes>-120dB : 001  Best level : -119 dB                   
+       Pass duration : 353s   Dist track :  18                                   
+       Calcul freq : 401 649660.9 Hz   Altitude :    0 m                         
+             117          250           45           14                         
+              00           00           00           86                         
+             105           01           00           01                         
+              04           00           00          145                         
+ 20885  Date : 29.12.93 02:31:21  LC : 2                                        
+       Lat1 : 17.747N  Lon1 : 102.469W  Lat2 : 15.132N  Lon2 : 114.292W          
+       Nb mes : 007  Nb mes>-120dB : 001  Best level : -118 dB                   
+       Pass duration : 590s   Dist track :   6                                   
+       Calcul freq : 401 649651.1 Hz   Altitude :    0 m                         
+              61          238           32          181                         
+              97           00           12           05                         
+              00           00           00          142                         
+ 20885  Date : 30.12.93 23:13:19  LC : 1                                        
+       Lat1 : 16.032N  Lon1 : 107.554W  Lat2 : 17.131N  Lon2 : 102.830W          
+       Nb mes : 005  Nb mes>-120dB : 003  Best level : -117 dB                   
+       Pass duration : 247s   Dist track :   2                                   
+       Calcul freq : 401 649689.7 Hz   Altitude :    0 m                         
+             105           02           02           03                         
+              02           00           00          142                         
+             235           01           03           00                         
+              00           00           00           00                         
+              00           00           00           01                         
+              00           02           02           12                         
+ 20885  Date : 31.12.93 21:18:04  LC : 0  LI : -3                               
+       Lat1 : 16.713N  Lon1 : 102.830W  Lat2 : 27.556N  Lon2 :  53.118W          
+       Nb mes : 003  Nb mes>-120dB : 000  Best level : -124 dB                   
+       Pass duration : 252s   Dist track :  24                                   
+       Calcul freq : 401 649689.7 Hz   Altitude :    0 m                         
+              53          232           77          150                         
+             105           02           02           03                         
+              02           00           00          142                         
+ 20884  Date : 01.01.94 01:28:59  LC : 1                                        
+       Lat1 : 18.142N  Lon1 : 102.958W  Lat2 : 22.603N  Lon2 :  82.876W          
+       Nb mes : 004  Nb mes>-120dB : 003  Best level : -118 dB                   
+       Pass duration : 378s   Dist track :  10                                   
+       Calcul freq : 401 649776.6 Hz   Altitude :    0 m                         
+             171           01           00           00                         
+              02           05           05           05                         
+              01           00           00           66                         
+              57          229           10          216                         
+ 20884  Date : 01.01.94 03:04:41  LC : 0  LI : -2                               
+       Lat1 : 18.131N  Lon1 : 102.969W  Lat2 : 12.042N  Lon2 : 130.985W          
+       Nb mes : 003  Nb mes>-120dB : 003  Best level : -116 dB                   
+       Pass duration : 244s   Dist track :  14                                   
+       Calcul freq : 401 649776.6 Hz   Altitude :    0 m                         
+             163           00           02           02                         
+              01           02           08           05                         
+              07           00           00           66                         
+              49          240           00          223                         
+ 20884  Date : 01.01.94 22:53:16  LC : 0  LI : -3                               
+       Lat1 : 17.700N  Lon1 : 103.562W  Lat2 : 20.080N  Lon2 :  96.534W          
+       Nb mes : 003  Nb mes>-120dB : 001  Best level : -119 dB                   
+       Pass duration : 098s   Dist track :   4                                   
+       Calcul freq : 401 649776.6 Hz   Altitude :    0 m                         
+             163           00           00           00                         
+              00           00           07           09                         
+              08           00           00           69                         
+              49          234           06          223                         
+ 20884  Date : 02.01.94 01:02:30  LC : 0  LI : -1                               
+       Lat1 : 18.238N  Lon1 : 102.810W  Lat2 : 24.661N  Lon2 :  72.689W          
+       Nb mes : 004  Nb mes>-120dB : 003  Best level : -116 dB                   
+       Pass duration : 148s   Dist track :  15                                   
+       Calcul freq : 401 649755.1 Hz   Altitude :    0 m                         
+              49          234           06          223                         
+             101           00           10           13                         
+              00           00           00          132                         
+ 20884  Date : 02.01.94 02:43:56  LC : 0  LI : -2                               
+       Lat1 : 18.167N  Lon1 : 102.989W  Lat2 : 14.319N  Lon2 : 120.631W          
+       Nb mes : 003  Nb mes>-120dB : 001  Best level : -113 dB                   
+       Pass duration : 110s   Dist track :   9                                   
+       Calcul freq : 401 649755.1 Hz   Altitude :    0 m                         
+             105           00           06           17                         
+              00           00           00          128                         
+             171           00           00           00                         
+              01           02           05           07                         
+              05           01           02           62                         
+ 20884  Date : 02.01.94 22:33:23  LC : 1                                        
+       Lat1 : 18.152N  Lon1 : 102.992W  Lat2 : 21.084N  Lon2 :  90.252W          
+       Nb mes : 005  Nb mes>-120dB : 001  Best level : -120 dB                   
+       Pass duration : 612s   Dist track :   6                                   
+       Calcul freq : 401 649780.3 Hz   Altitude :    0 m                         
+              97           01           20           06                         
+              00           00           00          132                         
+             163           01           00           01                         
+              03           03           07           06                         
+              03           03           00           66                         
+ 20884  Date : 03.01.94 00:20:11  LC : 0  LI : -4                               
+       Lat1 : 18.054N  Lon1 : 102.689W  Lat2 :  9.173N  Lon2 : 139.456W          
+       Nb mes : 002  Nb mes>-120dB : 000  Best level : -125 dB                   
+       Pass duration : 064s   Dist track :  18                                   
+       Calcul freq : 401 649780.5 Hz   Altitude :    0 m                         
+              49          234           06          223                         
+             101           01           19           16                         
+              00           00           00          119                         
+ 20884  Date : 03.01.94 02:22:32  LC : 2                                        
+       Lat1 : 18.127N  Lon1 : 102.903W  Lat2 : 16.473N  Lon2 : 110.404W          
+       Nb mes : 006  Nb mes>-120dB : 004  Best level : -118 dB                   
+       Pass duration : 587s   Dist track :   3                                   
+       Calcul freq : 401 649780.5 Hz   Altitude :    0 m                         
+             167           01           12           03                         
+              02           00           06           03                         
+              04           03           02           53                         
+              53          253           17          189                         
+ 20884  Date : 03.01.94 22:23:31  LC : 0  LI : -5                               
+       Lat1 : 18.114N  Lon1 : 102.955W  Lat2 : 22.335N  Lon2 :  84.226W          
+       Nb mes : 002  Nb mes>-120dB : 002  Best level : -114 dB                   
+       Pass duration : 106s   Dist track :   9                                   
+       Calcul freq : 401 649780.5 Hz   Altitude :    0 m                         
+             105           00           09           14                         
+              01           00           00          127                         
+             171           00           00           02                         
+              04           02           09           05                         
+              02           00           00           61                         
+ 20884  Date : 04.01.94 00:05:57  LC : 1                                        
+       Lat1 : 18.225N  Lon1 : 102.769W  Lat2 : 11.184N  Lon2 : 132.688W          
+       Nb mes : 004  Nb mes>-120dB : 002  Best level : -117 dB                   
+       Pass duration : 457s   Dist track :  15                                   
+       Calcul freq : 401 649742.0 Hz   Altitude :    0 m                         
+             175           12           23           10                         
+              03           04           03           00                         
+              01           00           00           25                         
+              61          238           00          213                         
+ 20884  Date : 04.01.94 02:04:42  LC : 0  LI :-10                               
+       Lat1 : 17.753N  Lon1 : 104.016W  Lat2 : 18.821N  Lon2 :  99.379W          
+       Nb mes : 002  Nb mes>-120dB : 000  Best level : -127 dB                   
+       Pass duration : 309s   Dist track :   3                                   
+       Calcul freq : 401 649742.0 Hz   Altitude :    0 m                         
+              97           22           23           01                         
+              00           00           00          113                         
+             163           04           15           11                         
+              03           04           05           03                         
+              01           00           00           47                         
+ 20884  Date : 06.01.94 01:23:12  LC : 0  LI :-10                               
+       Lat1 : 17.475N  Lon1 : 103.764W  Lat2 : 23.498N  Lon2 :  79.384W          
+       Nb mes : 002  Nb mes>-120dB : 000  Best level : -123 dB                   
+       Pass duration : 098s   Dist track :  12                                   
+       Calcul freq : 401 649694.5 Hz   Altitude :    0 m                         
+             101           10           07           16                         
+              00           00           00          122                         
+             167           08           04           03                         
+              02           03           09           03                         
+              00           01           16           56                         
+ 20884  Date : 06.01.94 02:55:08  LC : 1                                        
+       Lat1 : 18.124N  Lon1 : 102.946W  Lat2 : 12.763N  Lon2 : 127.374W          
+       Nb mes : 004  Nb mes>-120dB : 001  Best level : -120 dB                   
+       Pass duration : 318s   Dist track :  12                                   
+       Calcul freq : 401 649789.4 Hz   Altitude :    0 m                         
+             101           10           07           16                         
+              00           00           00          122                         
+             167           08           04           03                         
+              02           03           09           03                         
+              00           01           00           56                         
+ 20884  Date : 06.01.94 23:21:47  LC : 0  LI : -8                               
+       Lat1 : 15.744N  Lon1 : 114.843W  Lat2 : 18.602N  Lon2 : 102.810W          
+       Nb mes : 004  Nb mes>-120dB : 000  Best level : -123 dB                   
+       Pass duration : 147s   Dist track :   6                                   
+       Calcul freq : 401 649789.4 Hz   Altitude :    0 m                         
+             109           04           27           04                         
+              00           00           00          112                         
+             175           03           01           04                         
+              03           07           12           05                         
+              00           00          128           46                         
+ 20884  Date : 07.01.94 02:41:19  LC : 0  LI : -5                               
+       Lat1 : 18.121N  Lon1 : 102.875W  Lat2 : 14.255N  Lon2 : 117.797W          
+       Nb mes : 002  Nb mes>-120dB : 001  Best level : -119 dB                   
+       Pass duration : 235s   Dist track :   7                                   
+       Calcul freq : 401 649789.4 Hz   Altitude :    0 m                         
+             105           14           19           04                         
+              00           00           00          114                         
+             235           04           08           08                         
+              05           03           04           01                         
+              02           00           01           00                         
+              01           00           00          240                         
+ 20884  Date : 07.01.94 23:08:59  LC : 0  LI : -8                               
+       Lat1 : 17.391N  Lon1 : 103.805W  Lat2 : 16.496N  Lon2 : 107.460W          
+       Nb mes : 004  Nb mes>-120dB : 002  Best level : -118 dB                   
+       Pass duration : 198s   Dist track :   2                                   
+       Calcul freq : 401 649789.4 Hz   Altitude :    0 m                         
+             239           03           06           03                         
+              06           07           04           04                         
+              00           00           01           00                         
+              00           01           00          238                         
+              61          243           25          183                         
+ 20884  Date : 08.01.94 00:37:14  LC : 0  LI : -8                               
+       Lat1 : 18.203N  Lon1 : 103.156W  Lat2 : 27.587N  Lon2 :  58.623W          
+       Nb mes : 003  Nb mes>-120dB : 000  Best level : -121 dB                   
+       Pass duration : 097s   Dist track :  21                                   
+       Calcul freq : 401 649789.4 Hz   Altitude :    0 m                         
+             117          240           65           04                         
+              00           00           00           86                         
+             105           01           15           02                         
+              00           00           00          133                         
+ 20884  Date : 08.01.94 02:13:56  LC : 1                                        
+       Lat1 : 18.159N  Lon1 : 102.965W  Lat2 : 17.348N  Lon2 : 106.709W          
+       Nb mes : 004  Nb mes>-120dB : 001  Best level : -120 dB                   
+       Pass duration : 651s   Dist track :   2                                   
+       Calcul freq : 401 649781.5 Hz   Altitude :    0 m                         
+             117          240           65           04                         
+              00           00           00           86                         
+             105           01           15           02                         
+              00           00           00          133                         
+ 20884  Date : 09.01.94 01:54:12  LC : 1                                        
+       Lat1 : 18.160N  Lon1 : 102.985W  Lat2 : 19.665N  Lon2 :  96.361W          
+       Nb mes : 005  Nb mes>-120dB : 003  Best level : -117 dB                   
+       Pass duration : 676s   Dist track :   4                                   
+       Calcul freq : 401 649785.4 Hz   Altitude :    0 m                         
+             163           04           03           00                         
+              03           03           06           07                         
+              00           02           01           64                         
+              49          244           26          193                         
+ 20884  Date : 10.01.94 00:34:41  LC : 0  LI : -4                               
+       Lat1 : 18.151N  Lon1 : 102.948W  Lat2 :  8.076N  Lon2 : 145.930W          
+       Nb mes : 002  Nb mes>-120dB : 000  Best level : -125 dB                   
+       Pass duration : 104s   Dist track :  21                                   
+       Calcul freq : 401 649787.5 Hz   Altitude :    0 m                         
+             171           02           00           02                         
+              05           06           07           05                         
+              02           00           00           56                         
+              57          230           10          215                         
+ 20884  Date : 10.01.94 01:30:42  LC : 1                                        
+       Lat1 : 18.155N  Lon1 : 102.986W  Lat2 : 21.870N  Lon2 :  85.975W          
+       Nb mes : 004  Nb mes>-120dB : 001  Best level : -118 dB                   
+       Pass duration : 454s   Dist track :   8                                   
+       Calcul freq : 401 649787.5 Hz   Altitude :    0 m                         
+              49          252           19          192                         
+             101           02           22           05                         
+              00           00           00          126                         
+ 20884  Date : 11.01.94 01:06:58  LC : 0  LI : -3                               
+       Lat1 : 18.181N  Lon1 : 102.888W  Lat2 : 24.031N  Lon2 :  75.585W          
+       Nb mes : 003  Nb mes>-120dB : 001  Best level : -119 dB                   
+       Pass duration : 134s   Dist track :  13                                   
+       Calcul freq : 401 649787.5 Hz   Altitude :    0 m                         
+             167           00           01           00                         
+              04           05           10           04                         
+              01           02           00           62                         
+              53          232           08          219                         
+ 20884  Date : 11.01.94 22:25:05  LC : 0  LI : -3                               
+       Lat1 : 18.133N  Lon1 : 102.938W  Lat2 : 22.183N  Lon2 :  84.979W          
+       Nb mes : 003  Nb mes>-120dB : 003  Best level : -116 dB                   
+       Pass duration : 270s   Dist track :   9                                   
+       Calcul freq : 401 649778.1 Hz   Altitude :    0 m                         
+             171           02           04           02                         
+              04           05           07           03                         
+              02           01           01           54                         
+              57          241           28          186                         
+ 20884  Date : 12.01.94 00:05:13  LC : 0  LI : -5                               
+       Lat1 : 18.160N  Lon1 : 103.002W  Lat2 : 11.306N  Lon2 : 133.113W          
+       Nb mes : 002  Nb mes>-120dB : 001  Best level : -119 dB                   
+       Pass duration : 075s   Dist track :  15                                   
+       Calcul freq : 401 649778.1 Hz   Altitude :    0 m                         
+              34           39           35          109                         
+              07          170           10           52                         
+              00           20           26           10                         
+ 20884  Date : 12.01.94 02:29:22  LC : 0  LI : -3                               
+       Lat1 : 18.149N  Lon1 : 102.961W  Lat2 : 15.884N  Lon2 : 113.363W          
+       Nb mes : 003  Nb mes>-120dB : 002  Best level : -117 dB                   
+       Pass duration : 435s   Dist track :   5                                   
+       Calcul freq : 401 649778.1 Hz   Altitude :    0 m                         
+             175           08           06           06                         
+              05           06           06           04                         
+              00           01           00           39                         
+              61          229           11          211                         
+ 20884  Date : 12.01.94 23:53:27  LC : 1                                        
+       Lat1 : 18.117N  Lon1 : 102.957W  Lat2 : 12.437N  Lon2 : 127.301W          
+       Nb mes : 004  Nb mes>-120dB : 001  Best level : -120 dB                   
+       Pass duration : 514s   Dist track :  12                                   
+       Calcul freq : 401 649788.4 Hz   Altitude :    0 m                         
+             175           06           05           05                         
+              07           05           06           04                         
+              02           00           00           41                         
+              61          239           00          212                         
+ 20884  Date : 13.01.94 02:05:54  LC : 0  LI : -7                               
+       Lat1 : 18.122N  Lon1 : 102.822W  Lat2 : 18.065N  Lon2 : 103.089W          
+       Nb mes : 005  Nb mes>-120dB : 000  Best level : -121 dB                   
+       Pass duration : 642s   Dist track :   0                                   
+       Calcul freq : 401 649779.7 Hz   Altitude :    0 m                         
+              45           11           29          171                         
+             175           06           05           05                         
+              07           05           06           04                         
+              02           00           00           41                         
+ 20884  Date : 13.01.94 03:50:26  LC : 0  LI : -7                               
+       Lat1 :  7.372N  Lon1 : 151.862W  Lat2 : 18.071N  Lon2 : 102.865W          
+       Nb mes : 002  Nb mes>-120dB : 000  Best level : -130 dB                   
+       Pass duration : 063s   Dist track :  25                                   
+       Calcul freq : 401 649788.4 Hz   Altitude :    0 m                         
+              97           03           29           01                         
+              00           00           00          126                         
+             163           02           01           00                         
+              08           09           09           03                         
+              01           00           00           60                         
+ 20884  Date : 13.01.94 22:02:27  LC : 0  LI : -4                               
+       Lat1 : 18.055N  Lon1 : 102.970W  Lat2 : 24.732N  Lon2 :  73.134W          
+       Nb mes : 002  Nb mes>-120dB : 000  Best level : -122 dB                   
+       Pass duration : 050s   Dist track :  15                                   
+       Calcul freq : 401 649771.3 Hz   Altitude :    0 m                         
+              49          228           12          223                         
+             101           00           21           05                         
+              00           00           00          129                         
+ 20884  Date : 13.01.94 23:44:05  LC : 0  LI : -1                               
+       Lat1 : 18.131N  Lon1 : 102.685W  Lat2 : 13.744N  Lon2 : 121.422W          
+       Nb mes : 004  Nb mes>-120dB : 000  Best level : -122 dB                   
+       Pass duration : 189s   Dist track :   9                                   
+       Calcul freq : 401 649771.3 Hz   Altitude :    0 m                         
+              57          239           00          216                         
+              45           29           21          161                         
+ 20884  Date : 14.01.94 01:45:11  LC : 3                                        
+       Lat1 : 18.095N  Lon1 : 102.846W  Lat2 : 20.321N  Lon2 :  92.727W          
+       Nb mes : 006  Nb mes>-120dB : 001  Best level : -115 dB                   
+       Pass duration : 735s   Dist track :   5                                   
+       Calcul freq : 401 649779.3 Hz   Altitude :    0 m                         
+              61          238           00          213                         
+              97           24           19           06                         
+              00           00           00          110                         
+ 20884  Date : 14.01.94 03:26:48  LC : 2                                        
+       Lat1 : 18.106N  Lon1 : 102.832W  Lat2 :  9.586N  Lon2 : 140.885W          
+       Nb mes : 007  Nb mes>-120dB : 000  Best level : -122 dB                   
+       Pass duration : 495s   Dist track :  19                                   
+       Calcul freq : 401 649776.5 Hz   Altitude :    0 m                         
+             163           15           08           07                         
+              01           10           04           02                         
+              01           01           00           44                         
+              31           E4           0C           DF                         
+ 20884  Date : 14.01.94 21:46:59  LC : 0  LI : -3                               
+       Lat1 : 18.188N  Lon1 : 103.016W  Lat2 : 26.169N  Lon2 :  67.037W          
+       Nb mes : 003  Nb mes>-120dB : 000  Best level : -121 dB                   
+       Pass duration : 111s   Dist track :  17                                   
+       Calcul freq : 401 649777.6 Hz   Altitude :    0 m                         
+              99           10           12           02                         
+              01           00           00          132                         
+              49          240           00          223                         
+ 20884  Date : 14.01.94 23:32:50  LC : 0  LI : -5                               
+       Lat1 : 18.135N  Lon1 : 102.784W  Lat2 : 14.879N  Lon2 : 115.885W          
+       Nb mes : 002  Nb mes>-120dB : 002  Best level : -119 dB                   
+       Pass duration : 048s   Dist track :   6                                   
+       Calcul freq : 401 649777.6 Hz   Altitude :    0 m                         
+             175           16           23           12                         
+              04           02           02           01                         
+              00           00           00           21                         
+              61          232           07          212                         
+ 20884  Date : 15.01.94 01:19:46  LC : 0  LI : -4                               
+       Lat1 : 18.149N  Lon1 : 102.990W  Lat2 : 22.670N  Lon2 :  82.171W          
+       Nb mes : 002  Nb mes>-120dB : 000  Best level : -123 dB                   
+       Pass duration : 053s   Dist track :  10                                   
+       Calcul freq : 401 649783.5 Hz   Altitude :    0 m                         
+              53          229           80          150                         
+             105           06           21           10                         
+              00           00           00          114                         
+ 20884  Date : 15.01.94 03:04:15  LC : 1                                        
+       Lat1 : 18.155N  Lon1 : 103.032W  Lat2 : 12.013N  Lon2 : 130.373W          
+       Nb mes : 005  Nb mes>-120dB : 001  Best level : -120 dB                   
+       Pass duration : 511s   Dist track :  13                                   
+       Calcul freq : 401 649783.5 Hz   Altitude :    0 m                         
+             105           06           21           10                         
+              00           00           00          114                         
+             171           06           00           00                         
+              02           14           12           01                         
+              02           00           00           48                         
+ 20884  Date : 15.01.94 23:11:01  LC : 0  LI : -3                               
+       Lat1 : 18.157N  Lon1 : 103.003W  Lat2 : 16.578N  Lon2 : 109.219W          
+       Nb mes : 003  Nb mes>-120dB : 000  Best level : -122 dB                   
+       Pass duration : 158s   Dist track :   3                                   
+       Calcul freq : 401 649783.5 Hz   Altitude :    0 m                         
+             167           03           08           06                         
+              08           08           07           03                         
+              01           00           00           45                         
+              53          235           05          219                         
+ 20884  Date : 16.01.94 01:03:33  LC : 0  LI : -3                               
+       Lat1 : 18.200N  Lon1 : 103.089W  Lat2 : 24.851N  Lon2 :  71.834W          
+       Nb mes : 003  Nb mes>-120dB : 000  Best level : -124 dB                   
+       Pass duration : 155s   Dist track :  15                                   
+       Calcul freq : 401 649783.5 Hz   Altitude :    0 m                         
+              97           06           16           08                         
+              01           00           00          128                         
+             163           02           04           02                         
+              01           04           07           04                         
+              04           02           01           62                         
+ 20884  Date : 16.01.94 02:41:05  LC : 1                                        
+       Lat1 : 18.173N  Lon1 : 103.135W  Lat2 : 14.409N  Lon2 : 119.952W          
+       Nb mes : 004  Nb mes>-120dB : 003  Best level : -116 dB                   
+       Pass duration : 638s   Dist track :   8                                   
+       Calcul freq : 401 649789.2 Hz   Altitude :    0 m                         
+             163           02           04           02                         
+              01           04           07           04                         
+              04           02           01           62                         
+             113          242           26           02                         
+              00           00           00          129                         
+ 20884  Date : 17.01.94 02:26:18  LC : 0  LI : -1                               
+       Lat1 : 16.436N  Lon1 : 109.803W  Lat2 : 18.173N  Lon2 : 103.092W          
+       Nb mes : 005  Nb mes>-120dB : 000  Best level : -122 dB                   
+       Pass duration : 209s   Dist track :   3                                   
+       Calcul freq : 401 649812.4 Hz   Altitude :    0 m                         
+              61          254           15          182                         
+              97           03           24           03                         
+              00           00           00          129                         
+ 20884  Date : 17.01.94 22:50:40  LC : 0  LI : -5                               
+       Lat1 : 18.062N  Lon1 : 103.198W  Lat2 : 19.387N  Lon2 :  97.324W          
+       Nb mes : 002  Nb mes>-120dB : 001  Best level : -117 dB                   
+       Pass duration : 104s   Dist track :   3                                   
+       Calcul freq : 401 649812.4 Hz   Altitude :    0 m                         
+             175           08           02           02                         
+              03           02           06           07                         
+              03           00           00           48                         
+              61          238           02          211                         
+ 20884  Date : 18.01.94 00:31:44  LC : 0  LI : -8                               
+       Lat1 :  8.161N  Lon1 : 145.749W  Lat2 : 18.066N  Lon2 : 102.991W          
+       Nb mes : 007  Nb mes>-120dB : 000  Best level : -123 dB                   
+       Pass duration : 311s   Dist track :  22                                   
+       Calcul freq : 401 649904.1 Hz   Altitude :    0 m                         
+             167           00           00           01                         
+              01           02           08           05                         
+              06           01           01           64                         
+              53          244           26          189                         
+ 20884  Date : 18.01.94 22:40:55  LC : 0  LI : -5                               
+       Lat1 : 18.064N  Lon1 : 102.915W  Lat2 : 20.629N  Lon2 :  91.602W          
+       Nb mes : 002  Nb mes>-120dB : 000  Best level : -129 dB                   
+       Pass duration : 065s   Dist track :   6                                   
+       Calcul freq : 401 649904.1 Hz   Altitude :    0 m                         
+             109           03           20           03                         
+              00           00           00          121                         
+             175           03           00           00                         
+              01           01           11           06                         
+              04           00           00           55                         
+ 20884  Date : 19.01.94 00:16:08  LC : 0  LI : -3                               
+       Lat1 : 18.194N  Lon1 : 102.463W  Lat2 :  9.480N  Lon2 : 139.726W          
+       Nb mes : 003  Nb mes>-120dB : 000  Best level : -124 dB                   
+       Pass duration : 103s   Dist track :  19                                   
+       Calcul freq : 401 649904.1 Hz   Altitude :    0 m                         
+             235           00           02           00                         
+              01           00           08           04                         
+              04           02           00           01                         
+              00          132           02          253                         
+              57          119           57          187                         
+ 20884  Date : 19.01.94 01:36:44  LC : 0  LI : -1                               
+       Lat1 : 21.195N  Lon1 :  88.880W  Lat2 : 18.163N  Lon2 : 102.960W          
+       Nb mes : 004  Nb mes>-120dB : 000  Best level : -121 dB                   
+       Pass duration : 176s   Dist track :   7                                   
+       Calcul freq : 401 649797.3 Hz   Altitude :    0 m                         
+              97           12           15           05                         
+              00           00           00          127                         
+             163           07           05           03                         
+              01           03           04           05                         
+              01           02           01           61                         
+ 20884  Date : 19.01.94 03:22:13  LC : 0  LI : -4                               
+       Lat1 : 18.139N  Lon1 : 103.116W  Lat2 : 10.203N  Lon2 : 137.655W          
+       Nb mes : 002  Nb mes>-120dB : 000  Best level : -125 dB                   
+       Pass duration : 069s   Dist track :  17                                   
+       Calcul freq : 401 649797.3 Hz   Altitude :    0 m                         
+             101           02           14           08                         
+              00           00           00          131                         
+             231           02           00           00                         
+              01           02          165           07                         
+              17           04          183           46                         
+             213          250          118          168                         
+ 20884  Date : 20.01.94 01:17:43  LC : 0  LI : -5                               
+       Lat1 : 18.106N  Lon1 : 102.848W  Lat2 : 23.296N  Lon2 :  78.701W          
+       Nb mes : 002  Nb mes>-120dB : 000  Best level : -121 dB                   
+       Pass duration : 050s   Dist track :  12                                   
+       Calcul freq : 401 649797.3 Hz   Altitude :    0 m                         
+             105           01           10           07                         
+              00           00           00          133                         
+             171           01           00           08                         
+              65           03           27           67                         
+              33          196           01           65                         
+ 20884  Date : 20.01.94 03:02:01  LC : 0  LI : -3                               
+       Lat1 : 18.213N  Lon1 : 103.113W  Lat2 : 11.859N  Lon2 : 127.482W          
+       Nb mes : 003  Nb mes>-120dB : 000  Best level : -125 dB                   
+       Pass duration : 102s   Dist track :  12                                   
+       Calcul freq : 401 649797.3 Hz   Altitude :    0 m                         
+             231           00           00           00                         
+              02           05           03           01                         
+              03           07           01           01                         
+              00           00           00           02                         
+              53          234           74          147                         
+ 20884  Date : 21.01.94 00:01:40  LC : 0  LI : -5                               
+       Lat1 : 18.060N  Lon1 : 102.879W  Lat2 : 11.299N  Lon2 : 128.837W          
+       Nb mes : 002  Nb mes>-120dB : 000  Best level : -121 dB                   
+       Pass duration : 060s   Dist track :  12                                   
+       Calcul freq : 401 649797.3 Hz   Altitude :    0 m                         
+              33           33           23          167                         
+              99           13           17           10                         
+              10           06           00          101                         
+ 20884  Date : 21.01.94 02:33:12  LC : 0  LI : -5                               
+       Lat1 : 17.950N  Lon1 : 102.724W  Lat2 : 15.159N  Lon2 : 116.423W          
+       Nb mes : 002  Nb mes>-120dB : 001  Best level : -119 dB                   
+       Pass duration : 618s   Dist track :   7                                   
+       Calcul freq : 401 649797.3 Hz   Altitude :    0 m                         
+              33           33           23          163                         
+              99           13           24           90                         
+              10           22           00           69                         
+ 20884  Date : 21.01.94 23:38:05  LC : 0  LI : -5                               
+       Lat1 : 18.064N  Lon1 : 102.793W  Lat2 : 13.325N  Lon2 : 121.685W          
+       Nb mes : 002  Nb mes>-120dB : 000  Best level : -124 dB                   
+       Pass duration : 048s   Dist track :   9                                   
+       Calcul freq : 401 649797.3 Hz   Altitude :    0 m                         
+              49          240           00          223                         
+             101           07           20           02                         
+              00           00           00          126                         
+ 20884  Date : 23.01.94 03:30:11  LC : 0  LI : -5                               
+       Lat1 : 18.053N  Lon1 : 102.775W  Lat2 :  9.232N  Lon2 : 143.748W          
+       Nb mes : 002  Nb mes>-120dB : 000  Best level : -126 dB                   
+       Pass duration : 266s   Dist track :  20                                   
+       Calcul freq : 401 649797.3 Hz   Altitude :    0 m                         
+              41           18           21          176                         
+             171           03           10           11                         
+              04           06           11           55                         
+              17          162           03          179                         
+ 20884  Date : 25.01.94 02:52:49  LC : 0  LI : -5                               
+       Lat1 : 18.191N  Lon1 : 103.068W  Lat2 : 13.253N  Lon2 : 123.480W          
+       Nb mes : 002  Nb mes>-120dB : 001  Best level : -117 dB                   
+       Pass duration : 053s   Dist track :  10                                   
+       Calcul freq : 401 649797.3 Hz   Altitude :    0 m                         
+             105           22           07           02                         
+              00           00           00          120                         
+             235           02           16           05                         
+              01           04           00           01                         
+              00           00           00           02                         
+              00           00           00          246                         
+ 20884  Date : 27.01.94 22:33:25  LC : 0  LI : -5                               
+       Lat1 : 18.138N  Lon1 : 102.911W  Lat2 : 21.898N  Lon2 :  86.681W          
+       Nb mes : 002  Nb mes>-120dB : 002  Best level : -120 dB                   
+       Pass duration : 050s   Dist track :   8                                   
+       Calcul freq : 401 649797.3 Hz   Altitude :    0 m                         
+             167           01           00           02                         
+              02           02           05           08                         
+              04           03           00           62                         
+              53          240           00          219                         
+ 20885  Date : 01.01.94 01:25:01  LC : 0  LI : -3                               
+       Lat1 : 16.746N  Lon1 : 102.874W  Lat2 : 21.189N  Lon2 :  82.309W          
+       Nb mes : 003  Nb mes>-120dB : 002  Best level : -117 dB                   
+       Pass duration : 099s   Dist track :  10                                   
+       Calcul freq : 401 649689.7 Hz   Altitude :    0 m                         
+             125          250          107           02                         
+              00           00           00           28                         
+              97           00           08           07                         
+              00           00           00          144                         
+ 20885  Date : 02.01.94 00:32:18  LC : 0  LI : -2                               
+       Lat1 : 16.545N  Lon1 : 102.913W  Lat2 :  6.510N  Lon2 : 144.637W          
+       Nb mes : 003  Nb mes>-120dB : 000  Best level : -126 dB                   
+       Pass duration : 100s   Dist track :  20                                   
+       Calcul freq : 401 649670.1 Hz   Altitude :    0 m                         
+              61          231           39          181                         
+              97           07           08           04                         
+              00           00           00          140                         
+ 20885  Date : 02.01.94 01:05:10  LC : 0  LI :  0                               
+       Lat1 : 16.487N  Lon1 : 102.743W  Lat2 : 23.228N  Lon2 :  72.009W          
+       Nb mes : 004  Nb mes>-120dB : 004  Best level : -117 dB                   
+       Pass duration : 159s   Dist track :  15                                   
+       Calcul freq : 401 649670.1 Hz   Altitude :    0 m                         
+              36           68           20          157                         
+              07          162           25           40                         
+              01           09           57          186                         
+ 20885  Date : 02.01.94 22:36:39  LC : 1                                        
+       Lat1 : 16.193N  Lon1 : 102.625W  Lat2 : 19.307N  Lon2 :  89.624W          
+       Nb mes : 004  Nb mes>-120dB : 001  Best level : -115 dB                   
+       Pass duration : 561s   Dist track :   7                                   
+       Calcul freq : 401 649654.6 Hz   Altitude :    0 m                         
+             101           04           01           06                         
+              00           00           00          144                         
+             231           03           00           00                         
+              01           00           00           01                         
+              01           00           00           00                         
+              00           00           05           14                         
+ 20885  Date : 03.01.94 00:14:22  LC : 3                                        
+       Lat1 : 16.156N  Lon1 : 102.622W  Lat2 :  7.956N  Lon2 : 137.802W          
+       Nb mes : 006  Nb mes>-120dB : 000  Best level : -122 dB                   
+       Pass duration : 471s   Dist track :  17                                   
+       Calcul freq : 401 649657.6 Hz   Altitude :    0 m                         
+              36          165           21           35                         
+              07          165           20          129                         
+              00           21           46          123                         
+ 20885  Date : 03.01.94 00:47:21  LC : 0  LI : -2                               
+       Lat1 : 16.216N  Lon1 : 102.613W  Lat2 : 25.268N  Lon2 :  62.797W          
+       Nb mes : 003  Nb mes>-120dB : 000  Best level : -128 dB                   
+       Pass duration : 100s   Dist track :  20                                   
+       Calcul freq : 401 649657.6 Hz   Altitude :    0 m                         
+             121          248           59           69                         
+              00           00           00           83                         
+             109           01           07           05                         
+              01           00           00          133                         
+ 20885  Date : 03.01.94 22:20:55  LC : 1                                        
+       Lat1 : 15.772N  Lon1 : 102.612W  Lat2 : 20.211N  Lon2 :  83.555W          
+       Nb mes : 004  Nb mes>-120dB : 002  Best level : -117 dB                   
+       Pass duration : 687s   Dist track :  10                                   
+       Calcul freq : 401 649660.0 Hz   Altitude :    0 m                         
+             227           00           00           01                         
+              00           00           01           00                         
+              01           01           03           00                         
+              00           02           03           17                         
+              49          230           40          193                         
+ 20885  Date : 04.01.94 00:22:08  LC : 0  LI : -7                               
+       Lat1 : 15.757N  Lon1 : 102.607W  Lat2 : 26.529N  Lon2 :  51.188W          
+       Nb mes : 002  Nb mes>-120dB : 000  Best level : -123 dB                   
+       Pass duration : 104s   Dist track :  25                                   
+       Calcul freq : 401 649660.0 Hz   Altitude :    0 m                         
+              49          230           40          193                         
+             101           00           00           02                         
+              01           01           00          151                         
+ 20885  Date : 04.01.94 03:40:49  LC : 0  LI : -2                               
+       Lat1 : 15.705N  Lon1 : 102.668W  Lat2 :  6.048N  Lon2 : 147.368W          
+       Nb mes : 003  Nb mes>-120dB : 000  Best level : -128 dB                   
+       Pass duration : 109s   Dist track :  22                                   
+       Calcul freq : 401 649656.8 Hz   Altitude :    0 m                         
+             227           00           00           01                         
+              00           00           01           00                         
+              01           01           03           00                         
+              00           02           03           17                         
+              49          230           40          193                         
+ 20884  Date : 02.02.94 23:03:40  LC : 0  LI : -7                               
+       Lat1 : 18.508N  Lon1 : 102.606W  Lat2 : 19.256N  Lon2 : 100.410W          
+       Nb mes : 002  Nb mes>-120dB : 000  Best level : -126 dB                   
+       Pass duration : 064s   Dist track :   1                                   
+       Calcul freq : 401 649797.3 Hz   Altitude :    0 m                         
+              45           51           00          160                         
+             111           24           18           07                         
+              02           00           00           94                         
+ 20884  Date : 03.02.94 01:12:32  LC : 0  LI : -5                               
+       Lat1 : 18.140N  Lon1 : 103.109W  Lat2 : 23.580N  Lon2 :  77.706W          
+       Nb mes : 002  Nb mes>-120dB : 000  Best level : -122 dB                   
+       Pass duration : 060s   Dist track :  12                                   
+       Calcul freq : 401 649797.3 Hz   Altitude :    0 m                         
+             111           24           18           07                         
+              02           00           00           94                         
+              61          240           00          211                         
+ 20884  Date : 03.02.94 02:53:17  LC : 0  LI : -3                               
+       Lat1 : 18.157N  Lon1 : 103.031W  Lat2 : 13.168N  Lon2 : 125.893W          
+       Nb mes : 003  Nb mes>-120dB : 000  Best level : -121 dB                   
+       Pass duration : 097s   Dist track :  11                                   
+       Calcul freq : 401 649797.3 Hz   Altitude :    0 m                         
+              33           06           20          197                         
+             163           03           03           05                         
+              05           04           04           02                         
+              00           00           00           67                         
+ 20884  Date : 03.02.94 22:43:18  LC : 0  LI : -5                               
+       Lat1 : 18.128N  Lon1 : 103.062W  Lat2 : 20.395N  Lon2 :  92.962W          
+       Nb mes : 002  Nb mes>-120dB : 001  Best level : -120 dB                   
+       Pass duration : 049s   Dist track :   5                                   
+       Calcul freq : 401 649797.3 Hz   Altitude :    0 m                         
+             163           09           02           02                         
+              07           05           07           04                         
+              01           01           00           55                         
+              49          240           00          223                         
+ 20884  Date : 04.02.94 00:21:52  LC : 0  LI : -5                               
+       Lat1 : 17.948N  Lon1 : 103.063W  Lat2 :  9.235N  Lon2 : 140.575W          
+       Nb mes : 002  Nb mes>-120dB : 000  Best level : -130 dB                   
+       Pass duration : 049s   Dist track :  19                                   
+       Calcul freq : 401 649797.3 Hz   Altitude :    0 m                         
+              20           56           43          218                         
+              07          172           11           30                         
+              00           30           06          175                         
+ 20884  Date : 04.02.94 02:34:55  LC : 0  LI : -3                               
+       Lat1 : 18.126N  Lon1 : 102.964W  Lat2 : 15.324N  Lon2 : 115.691W          
+       Nb mes : 003  Nb mes>-120dB : 000  Best level : -121 dB                   
+       Pass duration : 124s   Dist track :   6                                   
+       Calcul freq : 401 649797.3 Hz   Altitude :    0 m                         
+              41           22           17          176                         
+             171           08           02           06                         
+              08           07           04           00                         
+              02           02           00           46                         
+ 20884  Date : 05.02.94 00:13:55  LC : 0  LI : -5                               
+       Lat1 : 18.083N  Lon1 : 102.975W  Lat2 : 10.948N  Lon2 : 135.421W          
+       Nb mes : 002  Nb mes>-120dB : 000  Best level : -129 dB                   
+       Pass duration : 541s   Dist track :  16                                   
+       Calcul freq : 401 649797.3 Hz   Altitude :    0 m                         
+              45           17           21          173                         
+             175           07           07           03                         
+              05           03           03           06                         
+              01           03           00           43                         
+ 20884  Date : 05.02.94 02:11:33  LC : 0  LI : -7                               
+       Lat1 : 18.149N  Lon1 : 102.933W  Lat2 : 17.620N  Lon2 : 105.319W          
+       Nb mes : 005  Nb mes>-120dB : 000  Best level : -124 dB                   
+       Pass duration : 644s   Dist track :   1                                   
+       Calcul freq : 401 649780.2 Hz   Altitude :    0 m                         
+              61          239           00          212                         
+              33           15           17          191                         
+ 20884  Date : 05.02.94 22:20:44  LC : 0  LI : -5                               
+       Lat1 : 18.121N  Lon1 : 102.957W  Lat2 : 23.034N  Lon2 :  81.115W          
+       Nb mes : 002  Nb mes>-120dB : 000  Best level : -121 dB                   
+       Pass duration : 061s   Dist track :  11                                   
+       Calcul freq : 401 649797.3 Hz   Altitude :    0 m                         
+              57          238           01          216                         
+              45           22           21          168                         
+ 20884  Date : 06.02.94 00:01:24  LC : 0  LI : -5                               
+       Lat1 : 18.122N  Lon1 : 102.906W  Lat2 : 12.085N  Lon2 : 129.384W          
+       Nb mes : 002  Nb mes>-120dB : 001  Best level : -119 dB                   
+       Pass duration : 059s   Dist track :  13                                   
+       Calcul freq : 401 649797.3 Hz   Altitude :    0 m                         
+              57          239           00          216                         
+              45           22           21          168                         
+ 20884  Date : 06.02.94 03:25:54  LC : 0  LI : -3                               
+       Lat1 : 18.116N  Lon1 : 102.852W  Lat2 :  9.340N  Lon2 : 142.662W          
+       Nb mes : 003  Nb mes>-120dB : 000  Best level : -127 dB                   
+       Pass duration : 097s   Dist track :  20                                   
+       Calcul freq : 401 649797.3 Hz   Altitude :    0 m                         
+              53          240           00          219                         
+              41           17           16          182                         
+ 20884  Date : 06.02.94 22:11:56  LC : 0  LI : -1                               
+       Lat1 : 18.168N  Lon1 : 102.956W  Lat2 : 24.610N  Lon2 :  75.141W          
+       Nb mes : 005  Nb mes>-120dB : 000  Best level : -121 dB                   
+       Pass duration : 202s   Dist track :  13                                   
+       Calcul freq : 401 649781.7 Hz   Altitude :    0 m                         
+              57          239           00          216                         
+              45           09           22          180                         
+ 20884  Date : 06.02.94 23:44:58  LC : 0  LI : -4                               
+       Lat1 : 17.829N  Lon1 : 103.185W  Lat2 : 13.197N  Lon2 : 122.873W          
+       Nb mes : 002  Nb mes>-120dB : 000  Best level : -123 dB                   
+       Pass duration : 050s   Dist track :  10                                   
+       Calcul freq : 401 649781.7 Hz   Altitude :    0 m                         
+             167           01           02           02                         
+              01           03           07           06                         
+              04           00           02           61                         
+              53          240           00          219                         
+ 20884  Date : 07.02.94 01:28:22  LC : 1                                        
+       Lat1 : 18.118N  Lon1 : 102.978W  Lat2 : 21.934N  Lon2 :  84.752W          
+       Nb mes : 004  Nb mes>-120dB : 000  Best level : -122 dB                   
+       Pass duration : 717s   Dist track :   9                                   
+       Calcul freq : 401 649795.8 Hz   Altitude :    0 m                         
+              37           04           24          191                         
+             167           01           02           02                         
+              01           03           07           06                         
+              04           00           02           61                         
+ 20884  Date : 07.02.94 03:07:31  LC : 1                                        
+       Lat1 : 18.152N  Lon1 : 102.986W  Lat2 : 11.598N  Lon2 : 132.691W          
+       Nb mes : 004  Nb mes>-120dB : 000  Best level : -124 dB                   
+       Pass duration : 469s   Dist track :  14                                   
+       Calcul freq : 401 649787.4 Hz   Altitude :    0 m                         
+              53          240           00          219                         
+              41           11           18          186                         
+ 20884  Date : 07.02.94 21:57:13  LC : 0  LI : -5                               
+       Lat1 : 18.175N  Lon1 : 103.021W  Lat2 : 25.503N  Lon2 :  69.348W          
+       Nb mes : 002  Nb mes>-120dB : 000  Best level : -127 dB                   
+       Pass duration : 480s   Dist track :  16                                   
+       Calcul freq : 401 649787.4 Hz   Altitude :    0 m                         
+              45           11           23          177                         
+             175           01           05           04                         
+              07           06           05           05                         
+              00           01           00           47                         
+ 20884  Date : 08.02.94 02:44:19  LC : 1                                        
+       Lat1 : 18.158N  Lon1 : 103.018W  Lat2 : 13.933N  Lon2 : 122.254W          
+       Nb mes : 004  Nb mes>-120dB : 003  Best level : -116 dB                   
+       Pass duration : 422s   Dist track :   9                                   
+       Calcul freq : 401 649790.6 Hz   Altitude :    0 m                         
+             171           02           02           05                         
+              09           06           03           02                         
+              03           00           00           53                         
+              57          238           00          217                         
+ 20884  Date : 08.02.94 23:21:45  LC : 1                                        
+       Lat1 : 18.166N  Lon1 : 102.987W  Lat2 : 16.218N  Lon2 : 111.515W          
+       Nb mes : 005  Nb mes>-120dB : 000  Best level : -123 dB                   
+       Pass duration : 403s   Dist track :   4                                   
+       Calcul freq : 401 649778.1 Hz   Altitude :    0 m                         
+              61          237           03          211                         
+              97           06           27           01                         
+              00           00           00          125                         
+ 20884  Date : 09.02.94 00:48:05  LC : 0  LI : -4                               
+       Lat1 : 18.197N  Lon1 : 102.970W  Lat2 : 26.496N  Lon2 :  64.228W          
+       Nb mes : 002  Nb mes>-120dB : 000  Best level : -127 dB                   
+       Pass duration : 055s   Dist track :  19                                   
+       Calcul freq : 401 649778.1 Hz   Altitude :    0 m                         
+              49          239           01          223                         
+             101           05           23           02                         
+              00           00           00          125                         
+ 20884  Date : 09.02.94 02:25:29  LC : 1                                        
+       Lat1 : 18.174N  Lon1 : 102.902W  Lat2 : 15.850N  Lon2 : 112.160W          
+       Nb mes : 004  Nb mes>-120dB : 001  Best level : -119 dB                   
+       Pass duration : 701s   Dist track :   4                                   
+       Calcul freq : 401 649785.9 Hz   Altitude :    0 m                         
+             109           07           24           01                         
+              00           00           00          115                         
+             175           02           03           05                         
+              04           05           05           04                         
+              04           00           00           49                         
+ 20884  Date : 09.02.94 21:33:55  LC : 0  LI : -5                               
+       Lat1 : 18.104N  Lon1 : 103.065W  Lat2 : 28.125N  Lon2 :  57.423W          
+       Nb mes : 002  Nb mes>-120dB : 000  Best level : -126 dB                   
+       Pass duration : 068s   Dist track :  22                                   
+       Calcul freq : 401 649785.9 Hz   Altitude :    0 m                         
+             175           04           07           06                         
+              08           04           07           01                         
+              00           00           00           44                         
+              61          237           00          214                         
+ 20884  Date : 09.02.94 23:08:18  LC : 0  LI : -7                               
+       Lat1 : 17.554N  Lon1 : 105.341W  Lat2 : 18.078N  Lon2 : 103.102W          
+       Nb mes : 002  Nb mes>-120dB : 000  Best level : -126 dB                   
+       Pass duration : 323s   Dist track :   1                                   
+       Calcul freq : 401 649785.9 Hz   Altitude :    0 m                         
+              33           17           22          184                         
+             163           07           06           01                         
+              08           05           06           04                         
+              02           00           00           54                         
+ 20884  Date : 10.02.94 02:02:25  LC : 0  LI : -7                               
+       Lat1 : 17.931N  Lon1 : 103.330W  Lat2 : 18.373N  Lon2 : 101.131W          
+       Nb mes : 002  Nb mes>-120dB : 000  Best level : -125 dB                   
+       Pass duration : 589s   Dist track :   1                                   
+       Calcul freq : 401 649785.9 Hz   Altitude :    0 m                         
+              53          240           00          219                         
+             105           11           21           01                         
+              00           00           00          118                         
+ 20884  Date : 10.02.94 23:06:31  LC : 0  LI : -5                               
+       Lat1 : 17.692N  Lon1 : 103.180W  Lat2 : 18.727N  Lon2 : 100.266W          
+       Nb mes : 002  Nb mes>-120dB : 000  Best level : -121 dB                   
+       Pass duration : 057s   Dist track :   2                                   
+       Calcul freq : 401 649785.9 Hz   Altitude :    0 m                         
+              45           27           17          167                         
+             175           04           13           06                         
+              08           06           06           00                         
+              01           00           00           37                         
+ 20884  Date : 11.02.94 00:41:27  LC : 0  LI : -3                               
+       Lat1 : 18.156N  Lon1 : 102.991W  Lat2 :  8.136N  Lon2 : 148.013W          
+       Nb mes : 003  Nb mes>-120dB : 000  Best level : -128 dB                   
+       Pass duration : 396s   Dist track :  22                                   
+       Calcul freq : 401 649785.9 Hz   Altitude :    0 m                         
+             171           16           12           08                         
+              06           04           03           02                         
+              00           00           00           35                         
+              45          254           05          161                         
+ 20884  Date : 11.02.94 01:43:56  LC : 0  LI : -5                               
+       Lat1 : 18.155N  Lon1 : 102.945W  Lat2 : 20.701N  Lon2 :  91.305W          
+       Nb mes : 002  Nb mes>-120dB : 000  Best level : -122 dB                   
+       Pass duration : 058s   Dist track :   6                                   
+       Calcul freq : 401 649785.9 Hz   Altitude :    0 m                         
+              45           27           17          167                         
+             175           04           13           06                         
+              08           06           06           00                         
+              01           00           00           37                         
+ 20884  Date : 11.02.94 22:47:41  LC : 1                                        
+       Lat1 : 18.063N  Lon1 : 102.891W  Lat2 : 20.331N  Lon2 :  94.133W          
+       Nb mes : 004  Nb mes>-120dB : 000  Best level : -122 dB                   
+       Pass duration : 758s   Dist track :   5                                   
+       Calcul freq : 401 649784.9 Hz   Altitude :    0 m                         
+             101           11           25           02                         
+              00           00           00          117                         
+             167           04           04           04                         
+              08           05           07           04                         
+              02           00           00           51                         
+ 20884  Date : 12.02.94 00:27:43  LC : 0  LI : -2                               
+       Lat1 : 18.081N  Lon1 : 102.814W  Lat2 :  9.214N  Lon2 : 141.972W          
+       Nb mes : 003  Nb mes>-120dB : 000  Best level : -128 dB                   
+       Pass duration : 105s   Dist track :  19                                   
+       Calcul freq : 401 649784.9 Hz   Altitude :    0 m                         
+              22           84           48          184                         
+              07          188           11           50                         
+             130           45           97          186                         
+ 20884  Date : 12.02.94 01:20:43  LC : 0  LI : -4                               
+       Lat1 : 18.086N  Lon1 : 102.818W  Lat2 : 22.794N  Lon2 :  80.921W          
+       Nb mes : 002  Nb mes>-120dB : 000  Best level : -125 dB                   
+       Pass duration : 062s   Dist track :  11                                   
+       Calcul freq : 401 649784.9 Hz   Altitude :    0 m                         
+              53          239           01          219                         
+             105           14           23           01                         
+              00           00           00          113                         
+ 20884  Date : 12.02.94 02:59:47  LC : 2                                        
+       Lat1 : 18.099N  Lon1 : 102.811W  Lat2 : 12.276N  Lon2 : 129.134W          
+       Nb mes : 008  Nb mes>-120dB : 000  Best level : -121 dB                   
+       Pass duration : 543s   Dist track :  13                                   
+       Calcul freq : 401 649776.8 Hz   Altitude :    0 m                         
+             105           14           23           01                         
+              00           00           00          113                         
+             107           01           16           08                         
+              04           05           04          111                         
+ 20884  Date : 12.02.94 22:35:59  LC : 0  LI :  0                               
+       Lat1 : 18.143N  Lon1 : 102.899W  Lat2 : 21.557N  Lon2 :  87.813W          
+       Nb mes : 004  Nb mes>-120dB : 002  Best level : -119 dB                   
+       Pass duration : 148s   Dist track :   7                                   
+       Calcul freq : 401 649770.6 Hz   Altitude :    0 m                         
+              61          237           00          214                         
+              33           52           04          167                         
+ 20884  Date : 13.02.94 00:16:55  LC : 0  LI : -8                               
+       Lat1 : 18.136N  Lon1 : 102.844W  Lat2 : 10.391N  Lon2 : 136.141W          
+       Nb mes : 004  Nb mes>-120dB : 000  Best level : -123 dB                   
+       Pass duration : 394s   Dist track :  16                                   
+       Calcul freq : 401 649768.0 Hz   Altitude :    0 m                         
+             105           31           23           02                         
+              00           00           00           95                         
+             171           16           07           09                         
+              0D           08           02           01                         
+              00           00           00           29                         
+ 20884  Date : 13.02.94 00:55:43  LC : 0  LI : -4                               
+       Lat1 : 18.119N  Lon1 : 102.765W  Lat2 : 25.003N  Lon2 :  70.550W          
+       Nb mes : 002  Nb mes>-120dB : 000  Best level : -125 dB                   
+       Pass duration : 049s   Dist track :  15                                   
+       Calcul freq : 401 649770.6 Hz   Altitude :    0 m                         
+              45           41           18          152                         
+             175           16           15           15                         
+              07           04           01           00                         
+              01           00           00           22                         
+ 20884  Date : 13.02.94 02:40:22  LC : 1                                        
+       Lat1 : 18.093N  Lon1 : 102.822W  Lat2 : 14.548N  Lon2 : 118.711W          
+       Nb mes : 004  Nb mes>-120dB : 002  Best level : -118 dB                   
+       Pass duration : 406s   Dist track :   8                                   
+       Calcul freq : 401 649777.8 Hz   Altitude :    0 m                         
+             167           17           05           02                         
+              03           04           14           06                         
+              00           00           00           38                         
+              53          235           05          219                         
+ 20884  Date : 13.02.94 23:58:26  LC : 0  LI : -5                               
+       Lat1 : 18.109N  Lon1 : 103.183W  Lat2 : 11.708N  Lon2 : 129.245W          
+       Nb mes : 002  Nb mes>-120dB : 000  Best level : -131 dB                   
+       Pass duration : 048s   Dist track :  13                                   
+       Calcul freq : 401 649777.8 Hz   Altitude :    0 m                         
+              53          237           33          189                         
+             105           02           19           02                         
+              00           00           00          128                         
+ 20884  Date : 14.02.94 23:47:19  LC : 0  LI : -2                               
+       Lat1 : 18.131N  Lon1 : 102.991W  Lat2 : 13.204N  Lon2 : 123.819W          
+       Nb mes : 003  Nb mes>-120dB : 000  Best level : -127 dB                   
+       Pass duration : 103s   Dist track :  10                                   
+       Calcul freq : 401 649783.3 Hz   Altitude :    0 m                         
+             227           00           01           02                         
+              01           01           04           04                         
+              04           03           01           03                         
+              00           00           00           05                         
+              49          240           00          223                         
+ 20884  Date : 15.02.94 01:55:59  LC : 0  LI : -5                               
+       Lat1 : 19.168N  Lon1 :  98.031W  Lat2 : 18.148N  Lon2 : 102.916W          
+       Nb mes : 004  Nb mes>-120dB : 001  Best level : -120 dB                   
+       Pass duration : 531s   Dist track :   2                                   
+       Calcul freq : 401 649783.3 Hz   Altitude :    0 m                         
+             175           00           02           01                         
+              02           05           05           05                         
+              08           00           00           53                         
+              61          238           01          212                         
+ 20884  Date : 15.02.94 03:32:47  LC : 0  LI : -2                               
+       Lat1 : 18.161N  Lon1 : 102.992W  Lat2 :  8.870N  Lon2 : 145.654W          
+       Nb mes : 003  Nb mes>-120dB : 000  Best level : -126 dB                   
+       Pass duration : 099s   Dist track :  21                                   
+       Calcul freq : 401 649783.3 Hz   Altitude :    0 m                         
+              49          240           00          223                         
+             101           00           18           01                         
+              00           00           00          136                         
+ 20884  Date : 15.02.94 23:41:07  LC : 0  LI : -5                               
+       Lat1 : 18.153N  Lon1 : 102.851W  Lat2 : 14.618N  Lon2 : 118.293W          
+       Nb mes : 002  Nb mes>-120dB : 001  Best level : -119 dB                   
+       Pass duration : 048s   Dist track :   8                                   
+       Calcul freq : 401 649783.3 Hz   Altitude :    0 m                         
+              30           36           50          211                         
+              07          168           11           25                         
+              23           49           44          114                         
+ 20884  Date : 16.02.94 03:17:10  LC : 0  LI : -5                               
+       Lat1 : 18.130N  Lon1 : 102.944W  Lat2 : 10.799N  Lon2 : 136.048W          
+       Nb mes : 002  Nb mes>-120dB : 000  Best level : -124 dB                   
+       Pass duration : 066s   Dist track :  16                                   
+       Calcul freq : 401 649783.3 Hz   Altitude :    0 m                         
+              45           06           20          185                         
+             175           01           03           03                         
+              01           00           06           36                         
+              67           13          224           86                         
+ 20884  Date : 16.02.94 23:29:56  LC : 0  LI : -3                               
+       Lat1 : 18.133N  Lon1 : 102.828W  Lat2 : 15.898N  Lon2 : 112.447W          
+       Nb mes : 003  Nb mes>-120dB : 000  Best level : -124 dB                   
+       Pass duration : 118s   Dist track :   5                                   
+       Calcul freq : 401 649783.3 Hz   Altitude :    0 m                         
+             235           08           02           01                         
+              00           01           01           02                         
+              03           01           03           02                         
+              02           02           00          249                         
+              57          238           00          217                         
+ 20884  Date : 17.02.94 23:14:20  LC : 0  LI : -3                               
+       Lat1 : 18.121N  Lon1 : 102.950W  Lat2 : 17.368N  Lon2 : 106.254W          
+       Nb mes : 003  Nb mes>-120dB : 000  Best level : -121 dB                   
+       Pass duration : 099s   Dist track :   2                                   
+       Calcul freq : 401 649783.3 Hz   Altitude :    0 m                         
+             235           00           00           00                         
+              00           01           00           00                         
+              01           03           04           02                         
+              04           01           00           05                         
+              59          239           00          216                         
+ 20884  Date : 18.02.94 21:23:28  LC : 0  LI : -7                               
+       Lat1 : 18.146N  Lon1 : 102.938W  Lat2 : 29.190N  Lon2 :  52.136W          
+       Nb mes : 002  Nb mes>-120dB : 000  Best level : -128 dB                   
+       Pass duration : 051s   Dist track :  24                                   
+       Calcul freq : 401 649783.3 Hz   Altitude :    0 m                         
+             109           05           11           06                         
+              00           00           00          125                         
+             239           03           01           01                         
+              00           00           02           02                         
+              02           00           03           03                         
+              02           01           02          251                         
+ 20884  Date : 20.02.94 01:49:18  LC : 1                                        
+       Lat1 : 17.891N  Lon1 : 102.857W  Lat2 : 19.940N  Lon2 :  94.290W          
+       Nb mes : 004  Nb mes>-120dB : 002  Best level : -119 dB                   
+       Pass duration : 561s   Dist track :   4                                   
+       Calcul freq : 401 649779.2 Hz   Altitude :    0 m                         
+              33           02           17          204                         
+             227           02           00           00                         
+              00           00           00           03                         
+              03           03           00           01                         
+              04           02           01           10                         
+ 20884  Date : 20.02.94 03:27:07  LC : 0  LI : -4                               
+       Lat1 : 17.898N  Lon1 : 103.009W  Lat2 :  9.428N  Lon2 : 142.110W          
+       Nb mes : 002  Nb mes>-120dB : 000  Best level : -127 dB                   
+       Pass duration : 063s   Dist track :  19                                   
+       Calcul freq : 401 649779.2 Hz   Altitude :    0 m                         
+              49          240           00          223                         
+             101           00           12           03                         
+              00           00           00          140                         
+ 20884  Date : 21.02.94 00:15:01  LC : 0  LI : -3                               
+       Lat1 : 17.186N  Lon1 : 103.328W  Lat2 :  9.704N  Lon2 : 135.546W          
+       Nb mes : 003  Nb mes>-120dB : 000  Best level : -129 dB                   
+       Pass duration : 104s   Dist track :  16                                   
+       Calcul freq : 401 649779.2 Hz   Altitude :    0 m                         
+             101           19           04           04                         
+              00           00           00          128                         
+             231           20           00           00                         
+              01           01           01           00                         
+              00           01           02           01                         
+              00           00           00          254                         
+ 20884  Date : 21.02.94 22:29:45  LC : 1                                        
+       Lat1 : 16.817N  Lon1 : 103.217W  Lat2 : 21.872N  Lon2 :  81.502W          
+       Nb mes : 006  Nb mes>-120dB : 002  Best level : -119 dB                   
+       Pass duration : 293s   Dist track :  11                                   
+       Calcul freq : 401 649755.0 Hz   Altitude :    0 m                         
+             121          233           10           04                         
+              04           04           15          121                         
+             109           04           00           08                         
+              00           00           00          135                         
+ 20884  Date : 22.02.94 01:06:55  LC : 1                                        
+       Lat1 : 16.901N  Lon1 : 102.815W  Lat2 : 23.516N  Lon2 :  73.020W          
+       Nb mes : 004  Nb mes>-120dB : 000  Best level : -124 dB                   
+       Pass duration : 292s   Dist track :  15                                   
+       Calcul freq : 401 649779.6 Hz   Altitude :    0 m                         
+              97           00           07           07                         
+              00           00           00          145                         
+             227           00           00           00                         
+              00           01           01           01                         
+              02           02           02           05                         
+              00           00           00           15                         
+ 20884  Date : 22.02.94 02:51:14  LC : 0  LI : -4                               
+       Lat1 : 16.913N  Lon1 : 102.760W  Lat2 : 11.052N  Lon2 : 122.136W          
+       Nb mes : 002  Nb mes>-120dB : 000  Best level : -126 dB                   
+       Pass duration : 066s   Dist track :   9                                   
+       Calcul freq : 401 649779.6 Hz   Altitude :    0 m                         
+             239           04           00           00                         
+              00           00           00           00                         
+              00           00           02           06                         
+              00           00           00           05                         
+              61          255           51          145                         
+ 20884  Date : 22.02.94 23:53:11  LC : 1                                        
+       Lat1 : 11.273N  Lon1 : 124.197W  Lat2 : 16.261N  Lon2 : 102.635W          
+       Nb mes : 006  Nb mes>-120dB : 001  Best level : -120 dB                   
+       Pass duration : 446s   Dist track :  11                                   
+       Calcul freq : 401 649824.8 Hz   Altitude :    0 m                         
+             227           00           00           00                         
+              00           00           00           00                         
+              00           01           01           06                         
+              04           00           00           17                         
+              49          227           81          155                         
+ 20884  Date : 23.02.94 22:03:35  LC : 1                                        
+       Lat1 : 15.553N  Lon1 : 102.511W  Lat2 : 23.153N  Lon2 :  69.799W          
+       Nb mes : 004  Nb mes>-120dB : 000  Best level : -123 dB                   
+       Pass duration : 290s   Dist track :  16                                   
+       Calcul freq : 401 649779.5 Hz   Altitude :    0 m                         
+              53          222           87          150                         
+             105           00           00           02                         
+              00           00           00          149                         
+ 20884  Date : 23.02.94 23:36:13  LC : 0  LI : -2                               
+       Lat1 : 15.271N  Lon1 : 102.632W  Lat2 : 11.583N  Lon2 : 117.422W          
+       Nb mes : 003  Nb mes>-120dB : 000  Best level : -121 dB                   
+       Pass duration : 160s   Dist track :   7                                   
+       Calcul freq : 401 649779.5 Hz   Altitude :    0 m                         
+             101           03           01           07                         
+              00           00           00          144                         
+             231           02           01           00                         
+              00           00           00           00                         
+              00           01           01           00                         
+              03           02           01           14                         
+ 20884  Date : 24.02.94 02:05:37  LC : 1                                        
+       Lat1 : 15.349N  Lon1 : 102.909W  Lat2 : 15.952N  Lon2 : 100.681W          
+       Nb mes : 006  Nb mes>-120dB : 001  Best level : -119 dB                   
+       Pass duration : 345s   Dist track :   2                                   
+       Calcul freq : 401 649777.4 Hz   Altitude :    0 m                         
+             101           03           01           07                         
+              00           00           00          144                         
+             231           02           01           00                         
+              00           00           00           00                         
+              00           01           01           00                         
+              03           02           01           14                         
+ 20884  Date : 24.02.94 23:29:38  LC : 0  LI :  0                               
+       Lat1 : 12.864N  Lon1 : 111.867W  Lat2 : 15.044N  Lon2 : 102.441W          
+       Nb mes : 004  Nb mes>-120dB : 001  Best level : -120 dB                   
+       Pass duration : 146s   Dist track :   5                                   
+       Calcul freq : 401 649827.3 Hz   Altitude :    0 m                         
+             105           04           00           04                         
+              02           00           00          141                         
+             235           04           00           00                         
+              00           00           00           00                         
+              00           00           00           00                         
+              01           04           01           11                         
+ 20884  Date : 25.02.94 01:37:29  LC : 1                                        
+       Lat1 : 14.987N  Lon1 : 102.386W  Lat2 : 17.799N  Lon2 :  89.518W          
+       Nb mes : 005  Nb mes>-120dB : 001  Best level : -120 dB                   
+       Pass duration : 280s   Dist track :   6                                   
+       Calcul freq : 401 649795.1 Hz   Altitude :    0 m                         
+             101           00           01           04                         
+              02           00           00          148                         
+             231           00           00           00                         
+              00           00           00           00                         
+              00           01           00           00                         
+              01           02           03           18                         
+ 20884  Date : 25.02.94 03:21:20  LC : 1                                        
+       Lat1 : 14.994N  Lon1 : 102.390W  Lat2 :  6.998N  Lon2 : 137.662W          
+       Nb mes : 006  Nb mes>-120dB : 000  Best level : -125 dB                   
+       Pass duration : 274s   Dist track :  18                                   
+       Calcul freq : 401 649776.7 Hz   Altitude :    0 m                         
+             125          242          182           05                         
+              00           00           00          214                         
+              97           00           00           11                         
+              00           00           00          148                         
+ 20884  Date : 26.02.94 00:59:20  LC : 0  LI : -7                               
+       Lat1 :  2.889N  Lon1 : 154.533W  Lat2 : 14.650N  Lon2 : 102.348W          
+       Nb mes : 002  Nb mes>-120dB : 000  Best level : -132 dB                   
+       Pass duration : 063s   Dist track :  27                                   
+       Calcul freq : 401 649776.7 Hz   Altitude :    0 m                         
+             109           00           00           13                         
+              01           00           00          133                         
+             239           00           00           00                         
+              00           00           00           00                         
+              00           00           02           02                         
+              08           02           00           03                         
+ 20884  Date : 26.02.94 23:03:25  LC : 0  LI : -7                               
+       Lat1 : 14.134N  Lon1 : 102.144W  Lat2 : 14.668N  Lon2 :  99.836W          
+       Nb mes : 006  Nb mes>-120dB : 003  Best level : -118 dB                   
+       Pass duration : 587s   Dist track :   1                                   
+       Calcul freq : 401 649778.9 Hz   Altitude :    0 m                         
+             109           03           00           04                         
+              05           00           00          135                         
+             239           02           01           00                         
+              00           00           00           00                         
+              00           00           00           00                         
+              04           03           35           21                         
+ 20884  Date : 27.02.94 01:00:55  LC : 0  LI : -5                               
+       Lat1 : 14.144N  Lon1 : 102.193W  Lat2 : 21.728N  Lon2 :  69.661W          
+       Nb mes : 002  Nb mes>-120dB : 000  Best level : -124 dB                   
+       Pass duration : 083s   Dist track :  16                                   
+       Calcul freq : 401 649776.7 Hz   Altitude :    0 m                         
+             109           03           00           04                         
+              05           00           02          131                         
+             229           66          145           82                         
+              07           49          113           29                         
+              78          164          173           23                         
+              48           87           39          129                         
+ 20884  Date : 27.02.94 02:40:11  LC : 1                                        
+       Lat1 : 14.114N  Lon1 : 102.096W  Lat2 : 10.850N  Lon2 : 116.633W          
+       Nb mes : 004  Nb mes>-120dB : 001  Best level : -120 dB                   
+       Pass duration : 325s   Dist track :   7                                   
+       Calcul freq : 401 649776.1 Hz   Altitude :    0 m                         
+             239           02           01           00                         
+              00           00           00           00                         
+              00           00           00           00                         
+              04           02           03           05                         
+             125          255          138           38                         
+              00           00           00          212                         
+ 20884  Date : 28.02.94 22:40:53  LC : 0  LI :  0                               
+       Lat1 : 13.395N  Lon1 : 102.528W  Lat2 : 16.941N  Lon2 :  87.242W          
+       Nb mes : 005  Nb mes>-120dB : 000  Best level : -121 dB                   
+       Pass duration : 199s   Dist track :   8                                   
+       Calcul freq : 401 649797.8 Hz   Altitude :    0 m                         
+              97           01           03           06                         
+              02           00           00          147                         
+             227           00           00           01                         
+              00           00           00           00                         
+              00           00           01           01                         
+              04           05           00           17                         
+ 20884  Date : 01.03.94 00:22:44  LC : 0  LI : -4                               
+       Lat1 : 13.289N  Lon1 : 102.564W  Lat2 :  5.644N  Lon2 : 135.730W          
+       Nb mes : 002  Nb mes>-120dB : 000  Best level : -123 dB                   
+       Pass duration : 166s   Dist track :  17                                   
+       Calcul freq : 401 649797.8 Hz   Altitude :    0 m                         
+             231           09           02           01                         
+              04           00           00           00                         
+              00           00           00           00                         
+              02           00           04           05                         
+             117          251           89           30                         
+              02           00          128          171                         
+ 20884  Date : 01.03.94 01:48:22  LC : 0  LI : -4                               
+       Lat1 : 13.373N  Lon1 : 102.890W  Lat2 : 15.205N  Lon2 :  94.941W          
+       Nb mes : 002  Nb mes>-120dB : 001  Best level : -120 dB                   
+       Pass duration : 103s   Dist track :   4                                   
+       Calcul freq : 401 649797.8 Hz   Altitude :    0 m                         
+             227           00           00           01                         
+              00           00           00           00                         
+              00           00           01           01                         
+              04           05           00           17                         
+             113          249           54           05                         
+              00           00           00           91                         
+ 20884  Date : 01.03.94 22:25:08  LC : 0  LI : -5                               
+       Lat1 : 13.043N  Lon1 : 102.297W  Lat2 : 17.858N  Lon2 :  81.273W          
+       Nb mes : 002  Nb mes>-120dB : 000  Best level : -122 dB                   
+       Pass duration : 050s   Dist track :  10                                   
+       Calcul freq : 401 649797.8 Hz   Altitude :    0 m                         
+              97           00           03           03                         
+              02           00           00          151                         
+             227           00           00           00                         
+              00           00           00           00                         
+              00           01           00           00                         
+              02           01           04           21                         
+ 20884  Date : 02.03.94 01:36:20  LC : 0  LI : -3                               
+       Lat1 : 13.210N  Lon1 : 102.433W  Lat2 : 17.406N  Lon2 :  85.915W          
+       Nb mes : 003  Nb mes>-120dB : 000  Best level : -121 dB                   
+       Pass duration : 229s   Dist track :   9                                   
+       Calcul freq : 401 649797.8 Hz   Altitude :    0 m                         
+             239           15           02           00                         
+              00           00           01           00                         
+              00           01           01           04                         
+              01           01           00          247                         
+              61          241           28          182                         
+ 20884  Date : 02.03.94 22:16:09  LC : 1                                        
+       Lat1 : 12.780N  Lon1 : 102.763W  Lat2 : 19.236N  Lon2 :  74.969W          
+       Nb mes : 004  Nb mes>-120dB : 001  Best level : -120 dB                   
+       Pass duration : 477s   Dist track :  14                                   
+       Calcul freq : 401 649779.5 Hz   Altitude :    0 m                         
+             113          241           58           09                         
+              00           00           00           91                         
+             101           04           00           00                         
+              04           00           00          147                         
+ 20884  Date : 02.03.94 23:54:58  LC : 1                                        
+       Lat1 : 12.761N  Lon1 : 102.770W  Lat2 :  8.035N  Lon2 : 123.092W          
+       Nb mes : 004  Nb mes>-120dB : 000  Best level : -122 dB                   
+       Pass duration : 291s   Dist track :  10                                   
+       Calcul freq : 401 649777.9 Hz   Altitude :    0 m                         
+              97           03           01           03                         
+              02           00           00          150                         
+             227           01           02           00                         
+              00           00           00           00                         
+              00           00           00           00                         
+              02           01           03           84                         
+ 20884  Date : 03.03.94 01:08:04  LC : 0  LI : -2                               
+       Lat1 : 12.748N  Lon1 : 102.779W  Lat2 : 18.993N  Lon2 :  74.037W          
+       Nb mes : 003  Nb mes>-120dB : 000  Best level : -121 dB                   
+       Pass duration : 193s   Dist track :  14                                   
+       Calcul freq : 401 649777.9 Hz   Altitude :    0 m                         
+             227           01           02           00                         
+              00           00           00           00                         
+              00           00           00           00                         
+              02           01           03           20                         
+             113          241           58           09                         
+              00           00           00           91                         
+ 20884  Date : 03.03.94 02:47:29  LC : 2                                        
+       Lat1 : 12.715N  Lon1 : 102.789W  Lat2 :  0.389S  Lon2 :   0.161W          
+       Nb mes : 007  Nb mes>-120dB : 000  Best level : -123 dB                   
+       Pass duration : 517s   Dist track :  10                                   
+       Calcul freq : 401 649785.6 Hz   Altitude :    0 m                         
+             125          242           34           31                         
+              00           00           00           80                         
+              97           03           01           03                         
+              02           00           00          150                         
+ 20884  Date : 03.03.94 22:06:28  LC : 0  LI : -5                               
+       Lat1 : 12.508N  Lon1 : 102.894W  Lat2 : 20.322N  Lon2 :  69.191W          
+       Nb mes : 002  Nb mes>-120dB : 000  Best level : -123 dB                   
+       Pass duration : 075s   Dist track :  17                                   
+       Calcul freq : 401 649785.6 Hz   Altitude :    0 m                         
+             235           00           00           00                         
+              04           00           02           12                         
+              64          128           08           00                         
+              00           01           01           19                         
+             121          234           11           13                         
+              03           02           06          122                         
+ 20884  Date : 04.03.94 00:47:58  LC : 1                                        
+       Lat1 : 12.483N  Lon1 : 102.926W  Lat2 : 21.160N  Lon2 :  63.625W          
+       Nb mes : 004  Nb mes>-120dB : 000  Best level : -127 dB                   
+       Pass duration : 495s   Dist track :  20                                   
+       Calcul freq : 401 649777.6 Hz   Altitude :    0 m                         
+             165           26           00           00                         
+              02           02           00           01                         
+              00           00           00           60                         
+             231           18           06           02                         
+              00           00           00           00                         
+              00           00           00           00                         
+              00           00           05          250                         
+ 20884  Date : 04.03.94 23:32:06  LC : 1                                        
+       Lat1 : 12.367N  Lon1 : 102.695W  Lat2 : 10.409N  Lon2 : 111.093W          
+       Nb mes : 004  Nb mes>-120dB : 001  Best level : -119 dB                   
+       Pass duration : 503s   Dist track :   4                                   
+       Calcul freq : 401 649782.1 Hz   Altitude :    0 m                         
+             101           03           01           01                         
+              02           00           00          148                         
+             231           03           00           00                         
+              00           00           00           00                         
+              01           00           00           02                         
+              32           00          131           18                         
+ 20884  Date : 05.03.94 23:18:30  LC : 0  LI : -7                               
+       Lat1 : 12.144N  Lon1 : 102.746W  Lat2 : 11.621N  Lon2 : 104.979W          
+       Nb mes : 005  Nb mes>-120dB : 001  Best level : -120 dB                   
+       Pass duration : 611s   Dist track :   1                                   
+       Calcul freq : 401 649780.7 Hz   Altitude :    0 m                         
+             117          244           58           06                         
+              00           00           00           87                         
+             169           00           00           00                         
+              01           00           00           00                         
+              00           00           01           85                         
+ 20884  Date : 06.03.94 01:01:24  LC : 0  LI : -7                               
+       Lat1 : 12.202N  Lon1 : 102.872W  Lat2 :  0.711N  Lon2 : 153.608W          
+       Nb mes : 003  Nb mes>-120dB : 000  Best level : -129 dB                   
+       Pass duration : 098s   Dist track :  25                                   
+       Calcul freq : 401 649782.1 Hz   Altitude :    0 m                         
+             231           03           00           00                         
+              00           00           00           00                         
+              00           00           00           00                         
+              00           00           04           18                         
+             117          244           58           06                         
+              00           00           00           87                         
+ 20884  Date : 06.03.94 23:08:10  LC : 1                                        
+       Lat1 : 11.900N  Lon1 : 102.811W  Lat2 : 12.833N  Lon2 :  98.869W          
+       Nb mes : 005  Nb mes>-120dB : 001  Best level : -118 dB                   
+       Pass duration : 494s   Dist track :   2                                   
+       Calcul freq : 401 649781.3 Hz   Altitude :    0 m                         
+              97           02           01           07                         
+              01           00           00          148                         
+             227           02           00           00                         
+              00           00           00           01                         
+              00           00           00           00                         
+              01           66           05           18                         
+ 20884  Date : 07.03.94 00:45:17  LC : 0  LI : -1                               
+       Lat1 : 11.858N  Lon1 : 102.797W  Lat2 :  1.417N  Lon2 : 147.142W          
+       Nb mes : 004  Nb mes>-120dB : 000  Best level : -129 dB                   
+       Pass duration : 185s   Dist track :  22                                   
+       Calcul freq : 401 649792.4 Hz   Altitude :    0 m                         
+             117          244           64           01                         
+              00           00           00           86                         
+             169           00           00           00                         
+              00           00           00           00                         
+              01           00           00           86                         
+ 20884  Date : 07.03.94 01:19:57  LC : 0  LI : -4                               
+       Lat1 : 11.852N  Lon1 : 102.774W  Lat2 : 16.820N  Lon2 :  80.270W          
+       Nb mes : 002  Nb mes>-120dB : 000  Best level : -122 dB                   
+       Pass duration : 049s   Dist track :  11                                   
+       Calcul freq : 401 649792.4 Hz   Altitude :    0 m                         
+             239           00           00           00                         
+              00           00           00           00                         
+              00           01           00           00                         
+              02           01           04           09                         
+             125          247          106           05                         
+              00           00           00           29                         
+ 20884  Date : 07.03.94 03:04:23  LC : 2                                        
+       Lat1 : 11.850N  Lon1 : 102.847W  Lat2 :  6.018N  Lon2 : 128.494W          
+       Nb mes : 007  Nb mes>-120dB : 000  Best level : -122 dB                   
+       Pass duration : 566s   Dist track :  13                                   
+       Calcul freq : 401 649787.8 Hz   Altitude :    0 m                         
+             235           00           00           00                         
+              00           00           00           00                         
+              00           00           00           00                         
+              00           00           01           20                         
+             121          251           03           02                         
+              03           02           07          123                         
+ 20884  Date : 07.03.94 22:59:18  LC : 0  LI : -5                               
+       Lat1 : 11.626N  Lon1 : 102.809W  Lat2 : 14.225N  Lon2 :  93.619W          
+       Nb mes : 002  Nb mes>-120dB : 000  Best level : -125 dB                   
+       Pass duration : 219s   Dist track :   5                                   
+       Calcul freq : 401 649787.8 Hz   Altitude :    0 m                         
+              49          236           73          154                         
+             101           03           00           04                         
+              00           01           00          147                         
+ 20884  Date : 08.03.94 22:41:06  LC : 1                                        
+       Lat1 : 11.173N  Lon1 : 103.091W  Lat2 : 15.056N  Lon2 :  86.409W          
+       Nb mes : 004  Nb mes>-120dB : 002  Best level : -119 dB                   
+       Pass duration : 700s   Dist track :   9                                   
+       Calcul freq : 401 649785.1 Hz   Altitude :    0 m                         
+             231           00           00           00                         
+              00           00           00           00                         
+              00           00           00           00                         
+              00          145          147           46                         
+             243          145           01           92                         
+              21           19          141          146                         
+ 20884  Date : 09.03.94 02:20:26  LC : 2                                        
+       Lat1 : 11.123N  Lon1 : 103.157W  Lat2 : 10.212N  Lon2 : 107.163W          
+       Nb mes : 007  Nb mes>-120dB : 001  Best level : -118 dB                   
+       Pass duration : 633s   Dist track :   2                                   
+       Calcul freq : 401 649783.3 Hz   Altitude :    0 m                         
+             109           02           05           02                         
+              01           00           00          137                         
+             239           02           00           00                         
+             136          128          128           00                         
+              00           01           00           00                         
+              01           00           06           07                         
+ 20884  Date : 09.03.94 22:31:18  LC : 1                                        
+       Lat1 : 10.856N  Lon1 : 103.267W  Lat2 : 16.276N  Lon2 :  80.172W          
+       Nb mes : 004  Nb mes>-120dB : 002  Best level : -119 dB                   
+       Pass duration : 457s   Dist track :  12                                   
+       Calcul freq : 401 649783.9 Hz   Altitude :    0 m                         
+              36          181           64           87                         
+              08          171           13           82                         
+              22           42           54           08                         
+ 20884  Date : 10.03.94 22:18:02  LC : 1                                        
+       Lat1 : 10.544N  Lon1 : 103.571W  Lat2 : 17.498N  Lon2 :  73.837W          
+       Nb mes : 005  Nb mes>-120dB : 001  Best level : -119 dB                   
+       Pass duration : 587s   Dist track :  15                                   
+       Calcul freq : 401 649786.3 Hz   Altitude :    0 m                         
+             235           03           00           00                         
+              00           00           00           00                         
+              00           00           00           01                         
+              00           00           01           16                         
+             121          226           06           05                         
+              06           02           23          123                         
+ 20884  Date : 14.03.94 02:16:35  LC : 0  LI : -7                               
+       Lat1 : 10.209N  Lon1 : 104.179W  Lat2 : 10.641N  Lon2 : 102.694W          
+       Nb mes : 003  Nb mes>-120dB : 001  Best level : -117 dB                   
+       Pass duration : 188s   Dist track :   1                                   
+       Calcul freq : 401 649786.4 Hz   Altitude :    0 m                         
+              49          230           10          223                         
+             101           03           00           04                         
+              01           00           00          147                         
+ 20884  Date : 14.03.94 23:08:52  LC : 0  LI : -3                               
+       Lat1 :  9.899N  Lon1 : 104.616W  Lat2 : 11.435N  Lon2 :  97.042W          
+       Nb mes : 003  Nb mes>-120dB : 000  Best level : -122 dB                   
+       Pass duration : 638s   Dist track :   4                                   
+       Calcul freq : 401 649786.4 Hz   Altitude :    0 m                         
+              40           17           48          101                         
+             147           84          124          118                         
+ 20884  Date : 15.03.94 03:32:31  LC : 1                                        
+       Lat1 :  9.895N  Lon1 : 104.646W  Lat2 :  1.982N  Lon2 : 139.237W          
+       Nb mes : 004  Nb mes>-120dB : 000  Best level : -127 dB                   
+       Pass duration : 289s   Dist track :  18                                   
+       Calcul freq : 401 649785.3 Hz   Altitude :    0 m                         
+             227           04           02           00                         
+              00           00           00           00                         
+              00           01           00           00                         
+              00           02           05           79                         
+             113           74          143           42                         
+ 20884  Date : 15.03.94 23:00:42  LC : 1                                        
+       Lat1 :  9.772N  Lon1 : 104.943W  Lat2 : 13.166N  Lon2 :  90.483W          
+       Nb mes : 007  Nb mes>-120dB : 000  Best level : -122 dB                   
+       Pass duration : 300s   Dist track :   7                                   
+       Calcul freq : 401 649784.3 Hz   Altitude :    0 m                         
+              49          243           27          193                         
+             101           05           00           01                         
+              01           00           00          148                         
+ 20884  Date : 16.03.94 00:38:45  LC : 0  LI : -4                               
+       Lat1 :  9.749N  Lon1 : 104.885W  Lat2 :  1.965N  Lon2 : 139.332W          
+       Nb mes : 002  Nb mes>-120dB : 000  Best level : -126 dB                   
+       Pass duration : 420s   Dist track :  17                                   
+       Calcul freq : 401 649784.3 Hz   Altitude :    0 m                         
+              49          243           27          193                         
+             101           05           00           01                         
+              01           00           00          148                         
+ 20884  Date : 16.03.94 22:47:18  LC : 0  LI : -3                               
+       Lat1 :  9.552N  Lon1 : 105.227W  Lat2 : 14.326N  Lon2 :  84.535W          
+       Nb mes : 003  Nb mes>-120dB : 001  Best level : -120 dB                   
+       Pass duration : 395s   Dist track :  11                                   
+       Calcul freq : 401 649784.3 Hz   Altitude :    0 m                         
+             103           01           02           01                         
+              00           00           00          149                         
+              53          240           00          219                         
+ 20884  Date : 17.03.94 00:23:52  LC : 0  LI : -3                               
+       Lat1 :  9.542N  Lon1 : 105.265W  Lat2 :  3.378N  Lon2 : 132.522W          
+       Nb mes : 003  Nb mes>-120dB : 000  Best level : -127 dB                   
+       Pass duration : 559s   Dist track :  14                                   
+       Calcul freq : 401 649784.3 Hz   Altitude :    0 m                         
+              97           07           06           01                         
+              01           00           00          144                         
+             227           05           03           00                         
+              00           00           00           00                         
+              00           00           00           00                         
+              00           01           06           14                         
+ 20884  Date : 17.03.94 02:43:38  LC : 1                                        
+       Lat1 :  9.498N  Lon1 : 105.284W  Lat2 :  6.685N  Lon2 : 117.806W          
+       Nb mes : 008  Nb mes>-120dB : 001  Best level : -120 dB                   
+       Pass duration : 479s   Dist track :   6                                   
+       Calcul freq : 401 649795.5 Hz   Altitude :    0 m                         
+              53          240           00          219                         
+             169           00           00           00                         
+              01           00           00           00                         
+              00           00           02           84                         
+ 20884  Date : 17.03.94 22:34:42  LC : 0  LI : -3                               
+       Lat1 :  9.264N  Lon1 : 105.577W  Lat2 : 15.568N  Lon2 :  78.223W          
+       Nb mes : 003  Nb mes>-120dB : 000  Best level : -121 dB                   
+       Pass duration : 295s   Dist track :  14                                   
+       Calcul freq : 401 649795.5 Hz   Altitude :    0 m                         
+             109           00           02           02                         
+              02           00           00          141                         
+             239           00           00           00                         
+              00           00           00           00                         
+              00           00           00           00                         
+              00           03           03           11                         
+ 20884  Date : 18.03.94 22:22:40  LC : 0  LI : -5                               
+       Lat1 :  8.865N  Lon1 : 105.836W  Lat2 : 16.592N  Lon2 :  72.079W          
+       Nb mes : 002  Nb mes>-120dB : 000  Best level : -126 dB                   
+       Pass duration : 312s   Dist track :  17                                   
+       Calcul freq : 401 649795.5 Hz   Altitude :    0 m                         
+              97           03           04           05                         
+              00           00           00          147                         
+             227           02           00           00                         
+              01           00           00           00                         
+              00           00           00           01                         
+              00           02           06           17                         
+ 20884  Date : 19.03.94 02:01:37  LC : 1                                        
+       Lat1 : 10.991N  Lon1 :  96.159W  Lat2 :  8.814N  Lon2 : 105.916W          
+       Nb mes : 005  Nb mes>-120dB : 000  Best level : -123 dB                   
+       Pass duration : 351s   Dist track :   5                                   
+       Calcul freq : 401 649782.8 Hz   Altitude :    0 m                         
+             105           00           00           00                         
+              01           00           00          150                         
+             235           00           00           00                         
+              00           00           00           00                         
+              00           00           00           00                         
+              00           00           01           20                         
+ 20884  Date : 20.03.94 01:45:57  LC : 0  LI : -3                               
+       Lat1 :  8.531N  Lon1 : 106.234W  Lat2 : 13.344N  Lon2 :  85.970W          
+       Nb mes : 003  Nb mes>-120dB : 000  Best level : -125 dB                   
+       Pass duration : 098s   Dist track :  10                                   
+       Calcul freq : 401 649782.8 Hz   Altitude :    0 m                         
+              97           04           01           08                         
+              00           00           00          146                         
+             227           03           00           01                         
+              00           00           00           00                         
+              00           00           00           00                         
+              01           04           36           16                         
+ 20884  Date : 20.03.94 03:21:10  LC : 1                                        
+       Lat1 :  2.265N  Lon1 : 133.533W  Lat2 :  8.443N  Lon2 : 106.244W          
+       Nb mes : 006  Nb mes>-120dB : 000  Best level : -124 dB                   
+       Pass duration : 500s   Dist track :  14                                   
+       Calcul freq : 401 649873.5 Hz   Altitude :    0 m                         
+             235           01           00           01                         
+              00           00           00           00                         
+              00           00           00           00                         
+              00           00           01           18                         
+              57          253           16          186                         
+ 20884  Date : 21.03.94 01:22:23  LC : 0  LI : -8                               
+       Lat1 :  8.092N  Lon1 : 106.139W  Lat2 : 14.836N  Lon2 :  75.119W          
+       Nb mes : 003  Nb mes>-120dB : 000  Best level : -125 dB                   
+       Pass duration : 366s   Dist track :  16                                   
+       Calcul freq : 401 649873.5 Hz   Altitude :    0 m                         
+             231           05           01           00                         
+              00           00           00           00                         
+              00           00           00           00                         
+              00           00           04           15                         
+              53          228           81          150                         
+ 20884  Date : 21.03.94 03:05:41  LC : 0  LI : -3                               
+       Lat1 :  8.679N  Lon1 : 107.464W  Lat2 :  4.559N  Lon2 : 122.728W          
+       Nb mes : 003  Nb mes>-120dB : 000  Best level : -125 dB                   
+       Pass duration : 141s   Dist track :   8                                   
+       Calcul freq : 401 649873.5 Hz   Altitude :    0 m                         
+              49          251           58          154                         
+             101           06           00           04                         
+              00           00           00          145                         
+ 20884  Date : 21.03.94 23:17:45  LC : 0  LI : -5                               
+       Lat1 :  8.232N  Lon1 : 107.955W  Lat2 : 10.540N  Lon2 :  99.529W          
+       Nb mes : 002  Nb mes>-120dB : 000  Best level : -127 dB                   
+       Pass duration : 053s   Dist track :   4                                   
+       Calcul freq : 401 649873.5 Hz   Altitude :    0 m                         
+              97           06           03           07                         
+              00           00           00          143                         
+             227           05           01           00                         
+              00           00           00           00                         
+              00           00           00           00                         
+              05           05           00           13                         
+ 20884  Date : 22.03.94 01:06:07  LC : 0  LI : -5                               
+       Lat1 :  7.718N  Lon1 : 106.698W  Lat2 :  2.099S  Lon2 : 149.452W          
+       Nb mes : 002  Nb mes>-120dB : 000  Best level : -129 dB                   
+       Pass duration : 201s   Dist track :  22                                   
+       Calcul freq : 401 649873.5 Hz   Altitude :    0 m                         
+             101           05           02           03                         
+              00           00           00          145                         
+             231           03           03           00                         
+              00           00           00           00                         
+              00           00           00           00                         
+              00           02           02           15                         
+ 20884  Date : 23.03.94 02:10:42  LC : 0  LI : -5                               
+       Lat1 :  7.867N  Lon1 : 108.559W  Lat2 : 10.354N  Lon2 :  99.733W          
+       Nb mes : 002  Nb mes>-120dB : 000  Best level : -125 dB                   
+       Pass duration : 057s   Dist track :   4                                   
+       Calcul freq : 401 649873.5 Hz   Altitude :    0 m                         
+              57          251           19          185                         
+             109           05           01           12                         
+              00           00           00          129                         
+ 20884  Date : 23.03.94 03:56:48  LC : 0  LI : -5                               
+       Lat1 :  7.272N  Lon1 : 106.611W  Lat2 :  2.152S  Lon2 : 149.801W          
+       Nb mes : 002  Nb mes>-120dB : 000  Best level : -128 dB                   
+       Pass duration : 149s   Dist track :  22                                   
+       Calcul freq : 401 649873.5 Hz   Altitude :    0 m                         
+             227           04           02           00                         
+             182           33           65          111                         
+              60          227          214          130                         
+             129           27          236           68                         
+             154          143           10          240                         
+ 20884  Date : 24.03.94 00:35:55  LC : 0  LI : -5                               
+       Lat1 :  7.297N  Lon1 : 106.474W  Lat2 :  0.179N  Lon2 : 136.736W          
+       Nb mes : 002  Nb mes>-120dB : 000  Best level : -126 dB                   
+       Pass duration : 058s   Dist track :  16                                   
+       Calcul freq : 401 649873.5 Hz   Altitude :    0 m                         
+             109           08           01           10                         
+              00           00           00          137                         
+             239           00           00           00                         
+              00           00           02           01                         
+              04          150           95          113                         
+              68          173          120          240                         
+ 20884  Date : 26.03.94 02:53:40  LC : 0  LI : -5                               
+       Lat1 :  6.462N  Lon1 : 107.276W  Lat2 :  4.115N  Lon2 : 117.680W          
+       Nb mes : 002  Nb mes>-120dB : 002  Best level : -120 dB                   
+       Pass duration : 052s   Dist track :   5                                   
+       Calcul freq : 401 649873.5 Hz   Altitude :    0 m                         
+             101           03           01           02                         
+              00           00           00          149                         
+             231           03           00           00                         
+              05          160           26           64                         
+              01           64           00          146                         
+              57           20           12           27                         
+ 20884  Date : 28.03.94 03:50:20  LC : 0  LI : -5                               
+       Lat1 :  5.836N  Lon1 : 107.647W  Lat2 :  2.357S  Lon2 : 144.691W          
+       Nb mes : 002  Nb mes>-120dB : 000  Best level : -125 dB                   
+       Pass duration : 051s   Dist track :  19                                   
+       Calcul freq : 401 649873.5 Hz   Altitude :    0 m                         
+             239           00           00           00                         
+              00           00           00           00                         
+              00           64           84           32                         
+              02           05           05           05                         
+              61          255          176           20                         
+ 20884  Date : 30.03.94 23:07:37  LC : 0  LI : -5                               
+       Lat1 :  5.461N  Lon1 : 108.940W  Lat2 :  9.893N  Lon2 :  91.936W          
+       Nb mes : 002  Nb mes>-120dB : 000  Best level : -126 dB                   
+       Pass duration : 054s   Dist track :   9                                   
+       Calcul freq : 401 649873.5 Hz   Altitude :    0 m                         
+             235           00           00           01                         
+              00           00           00           00                         
+              01           01           01           00                         
+              00           00           02           15                         
+             121          233           07           05                         
+              05           20           55           91                         
+ 20884  Date : 31.03.94 00:54:15  LC : 0  LI : -5                               
+       Lat1 :  4.826N  Lon1 : 107.837W  Lat2 :  2.939S  Lon2 : 141.441W          
+       Nb mes : 002  Nb mes>-120dB : 000  Best level : -124 dB                   
+       Pass duration : 058s   Dist track :  17                                   
+       Calcul freq : 401 649873.5 Hz   Altitude :    0 m                         
+              97           05           02           04                         
+              00           00           00          148                         
+             227           02           00           02                         
+              01           00           00           00                         
+              00           00           00           00                         
+              00           02           04           18                         
+ 20884  Date : 03.04.94 03:16:33  LC : 0  LI : -5                               
+       Lat1 :  4.502N  Lon1 : 107.966W  Lat2 :  0.286S  Lon2 : 129.291W          
+       Nb mes : 002  Nb mes>-120dB : 000  Best level : -121 dB                   
+       Pass duration : 133s   Dist track :  11                                   
+       Calcul freq : 401 649873.5 Hz   Altitude :    0 m                         
+             249          231           03           26                         
+             254           92           67          210                         
+              73           77          179          132                         
+              81          166          129          255                         
+ 20884  Date : 12.04.94 01:46:47  LC : 0  LI : -5                               
+       Lat1 :  3.326N  Lon1 : 108.344W  Lat2 :  8.884N  Lon2 :  83.519W          
+       Nb mes : 002  Nb mes>-120dB : 000  Best level : -127 dB                   
+       Pass duration : 149s   Dist track :  13                                   
+       Calcul freq : 401 649873.5 Hz   Altitude :    0 m                         
+              41           06           14          195                         
+             235           06           00           00                         
+              00           00           00           00                         
+              00           00           00           04                         
+              07           03           00           01                         
+

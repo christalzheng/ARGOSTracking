@@ -15,10 +15,11 @@ import arcpy
 arcpy.env.overwriteOutput = True
 
 # Set input variables (Hard-wired)
-inputFile = 'V:/ARGOSTracking/Data/ARGOSData/1997dg.txt'
-outputSR = arcpy.SpatialReference(54002)
-
-outputFC = "V:/ARGOSTracking/Scratch/ARGOStrack.shp"
+            
+# Set input variables (user input)
+inputFolder = arcpy.GetParameterAsText(0)
+outputSR = arcpy.GetParameterAsText(1)
+outputFC = arcpy.GetParameterAsText(2)
 ## Prepare a new feature class to which we'll add tracking points
 # Create an empty feature class; requires the path and name as separate parameters
 outPath,outName = os.path.split(outputFC)
@@ -94,7 +95,7 @@ while lineString:
             lineString = inputFileObj.readline()
         #Handle any error
         except Exception as e:
-            print(f"Error adding record {tagID} to the output: {e}")
+            acpy.AddWarning(f"Error adding record {tagID} to the output: {e}")
         feature = cur.insertRow((obsPointGeom,tagID,obsLC,obsDate.replace(".","/") + " " + obsTime))
             
     #Delete the cursor object
